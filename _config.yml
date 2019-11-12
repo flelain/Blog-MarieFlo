@@ -16,7 +16,7 @@ resume: false
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: http://dns_to_be_set_up/
+url: http://54.201.125.44/_site//
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -39,10 +39,10 @@ disqus:
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-linkedin: www.linkedin.com/in/florent-le-lain-a696b
+linkedin: florent-le-lain-a696b
 # youtube: myyoutube
 # spotify: myspotify
-github: https://github.com/florentlelain
+github: florentlelain
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
