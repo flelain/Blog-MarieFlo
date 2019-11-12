@@ -1,6 +1,6 @@
 # main text of home
-name: Le blog des JegLain au Canada
-bio: L'aventure à 5 au pays des ours et des caribous
+name: Les JegLain au Canada
+bio: L'aventure à cinq au pays des ours et des caribous
 
 # twitter summary info
 # description: A blog about technology and stuff related
@@ -8,7 +8,7 @@ bio: L'aventure à 5 au pays des ours et des caribous
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile.jpg
+picture: assets/images/drapeau_Canada_rectangle.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -16,7 +16,7 @@ resume: false
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: http://54.188.7.121/
+url: http://dns_to_be_set_up/
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -39,10 +39,10 @@ disqus:
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: www.linkedin.com/in/florent-le-lain-a696b
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: https://github.com/florentlelain
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
@@ -51,21 +51,21 @@ github: mygithub
 # medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: blog_jeglain@gmail.com
 
 authors:
     florentlelain:
         name: Florent Le Lain
-        bio: A Man who travels the world eating noodles
+        bio: An urban cyclist riding between Cesson and Vancouver
         external-image: false
-        picture: assets/images/profile.jpg
+        picture: assets/images/avatar_flo.jpg
         # twitter: johndoe
-    jamesfoster:
-        name: James Foster
-        bio: A Man who develops software with coffee
-        external-image: false
-        picture: assets/images/james.jpg
-        twitter: jamesfoster
+    # jamesfoster:
+    #    name: James Foster
+    #    bio: A Man who develops software with coffee
+    #    external-image: false
+    #    picture: assets/images/james.jpg
+    #    twitter: jamesfoster
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
