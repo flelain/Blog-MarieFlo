@@ -30,15 +30,15 @@ Après ces quelques jours à Vancouver, nous sommes partis sur l'île de Vancouv
 <figcaption class="caption">Jericho beach</figcaption>
 
 de Victoria et de notre tour en bateau pour aller voir les baleines, orques, phoques et éléphants de mer...
-![Markdowm Image](assets/images/posts/IMG_6967.jpg)
+![Markdowm Image](/assets/images/posts/IMG_6967.jpg)
 <figcaption class="caption">Jericho beach</figcaption>
 
 de la multitude de lacs à l'eau incroyablement limpide!
-![Markdowm Image](assets/images/posts/IMG_7054.jpg)
+![Markdowm Image](/assets/images/posts/IMG_7054.jpg)
 <figcaption class="caption">Jericho beach</figcaption>
 
 Et tout simplement de la pratique du camping dans les parcs provinciaux de la Colombie-Britannique, une expérience inoubliable avec ses feux de camps et grillades :)
-![Markdowm Image](assets/images/posts/IMG_6935.jpg)
+![Markdowm Image](/assets/images/posts/IMG_6935.jpg)
 <figcaption class="caption">Jericho beach</figcaption>
 
 
