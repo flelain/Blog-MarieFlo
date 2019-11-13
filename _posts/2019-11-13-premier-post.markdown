@@ -26,7 +26,7 @@ On a profité de notre première semaine pour poser les valises et découvrir Va
 
 ## Des vacances dans les vacances
 Après ces quelques jours à Vancouver, nous sommes partis sur l'île de Vancouver, que nous avons parcouru de long en large en Van. Toute une épopée ! Autant pour l'incroyable confort de notre fourgon Ford super bien aménagé que pour l'énergie sans limite dont les enfants ont fait preuve durant nos trajets... Au total, des souvenirs inoubliables de Long Beach à Tofino...
-![Markdowm Image]/assets/images/posts/IMG_6976.jpg]
+![Markdowm Image](/assets/images/posts/IMG_6976.jpg)
 <figcaption class="caption">Jericho beach</figcaption>
 
 de Victoria et de notre tour en bateau pour aller voir les baleines, orques, phoques et éléphants de mer...
