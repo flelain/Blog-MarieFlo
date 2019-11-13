@@ -19,7 +19,7 @@ Voilà maintenant 3 mois que nous avons atterri à Vancouver. Déjà beaucoup de
 
 ## Nos premiers jours
 
-![Markdowm Image][/_site/assets/images/posts/IMG_6893.jpg]
+![Markdowm Image][_site/assets/images/posts/IMG_6893.jpg]
 <figcaption class="caption">Jericho beach</figcaption>
 
 On a profité de notre première semaine pour poser les valises et découvrir Vancouver avec les enfants. Visite du centre-ville typiquement Nord-Américain, des dives et plages du détroit de Burrard et point de vue sur les fabuleux paysages naturels entourant Vancouver.
