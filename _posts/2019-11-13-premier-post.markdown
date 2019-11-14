@@ -16,6 +16,7 @@ description: ouverture de notre blog et... premier post
 Bonjour à tous sur notre Blog, fraîchement créé ! D'ailleurs, c'est tellement frais que ce premier billet est autant une façon de vous y souhaiter la bienvenue que de tester la parution d'un post :)
 
 Voilà maintenant 3 mois que nous avons atterri à Vancouver. Déjà beaucoup de choses se sont passées pour nous cinq ici. Il est temps de commencer à les partager avec vous tous, grâce à quelques histoires et photos à l'appui !
+
 ---
 
 ## Nos premiers jours
@@ -25,25 +26,29 @@ Voilà maintenant 3 mois que nous avons atterri à Vancouver. Déjà beaucoup de
 
 
 On a profité de notre première semaine pour poser les valises et découvrir Vancouver avec les enfants. Visite du centre-ville typiquement Nord-Américain, des dives et plages du détroit de Burrard et point de vue sur les fabuleux paysages naturels entourant Vancouver.
+
 ---
 
 ## Des vacances dans les vacances
 Après ces quelques jours à Vancouver, nous sommes partis sur l'île de Vancouver, que nous avons parcouru de long en large en Van. Toute une épopée ! Autant pour l'incroyable confort de notre fourgon Ford super bien aménagé que pour l'énergie sans limite dont les enfants ont fait preuve durant nos trajets... Au total, des souvenirs inoubliables :
 
 * de Tofino et de son immense plage idéale pour le surf...
-![Markdowm Image](/assets/images/posts/IMG_6976.jpg){: class="bigger-image" }
+![Markdowm Image](/assets/images/posts/IMG_6976.jpg)
 <figcaption class="caption">Long Beach</figcaption>
 
+##
 
 * de Victoria et de notre tour en bateau pour aller voir les baleines, orques, phoques et éléphants de mer...
 ![Markdowm Image](/assets/images/posts/IMG_6967.jpg)
 <figcaption class="caption">Des éléphants de mer se prélassant au large de Victoria</figcaption>
 
+##
 
 * de la multitude de lacs à l'eau incroyablement limpide!
 ![Markdowm Image](/assets/images/posts/IMG_7054.jpg)
 <figcaption class="caption">Une aire de repos le long de l'Autoroute</figcaption>
 
+##
 
 Et tout simplement de la pratique du camping dans les parcs provinciaux de la Colombie-Britannique, une expérience inoubliable avec ses sites aménages, ses feux de camps et grillades :)
 ![Markdowm Image](/assets/images/posts/IMG_6935.jpg)
@@ -52,7 +57,8 @@ Et tout simplement de la pratique du camping dans les parcs provinciaux de la Co
 
 
 
-
+##
+##
 
 
 
