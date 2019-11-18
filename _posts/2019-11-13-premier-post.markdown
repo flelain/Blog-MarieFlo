@@ -43,7 +43,8 @@ Après ces quelques jours à Vancouver, nous sommes partis sur **l'île de Vanco
 ![Markdown Image](/assets/images/posts/IMG_6976.jpg)
 <figcaption class="caption">Long Beach</figcaption>
 
-  * de **Victoria** et de notre tour en bateau pour aller voir les **baleines, orques, phoques et éléphants de mer...**
+
+   * de **Victoria** et de notre tour en bateau pour aller voir les **baleines, orques, phoques et éléphants de mer...**
 
 ![Markdown Image](/assets/images/posts/IMG_6967.jpg)
 <figcaption class="caption">Des éléphants de mer se prélassant au large de Victoria</figcaption>
