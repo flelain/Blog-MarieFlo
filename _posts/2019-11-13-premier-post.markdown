@@ -13,7 +13,7 @@ author: florentlelain
 description: ouverture de notre blog et... premier post
 ---
 
-Bonjour à tous sur notre Blog, fraîchement créé ! D'ailleurs, c'est tellement frais que ce premier billet est autant une façon de vous y souhaiter la bienvenue que de tester la parution d'un post :)
+**Bonjour à tous sur notre Blog**, fraîchement créé ! D'ailleurs, c'est tellement frais que ce premier billet est autant une façon de vous y souhaiter la bienvenue que de tester la parution d'un post :)
 
 Voilà maintenant 3 mois que nous avons atterri à Vancouver. Déjà beaucoup de choses se sont passées pour nous cinq ici. Il est temps de commencer à les partager avec vous tous, grâce à quelques histoires et photos à l'appui !
 
@@ -24,233 +24,52 @@ Voilà maintenant 3 mois que nous avons atterri à Vancouver. Déjà beaucoup de
 ![Markdowm Image](/assets/images/posts/IMG_6893.jpg)
 <figcaption class="caption">Jericho beach</figcaption>
 
+On a profité de notre première semaine pour poser les valises et découvrir Vancouver avec les enfants. Visite du **centre-ville** typiquement Nord-Américain, des rives et plages du **détroit de Burrard**, points de vue sur les **fabuleux paysages naturels** entourant Vancouver...
 
-On a profité de notre première semaine pour poser les valises et découvrir Vancouver avec les enfants. Visite du centre-ville typiquement Nord-Américain, des dives et plages du détroit de Burrard et point de vue sur les fabuleux paysages naturels entourant Vancouver.
+Bon, nous n'avons évidemment pas échappé à quelques démarches administratives pour pouvoir assurer notre avenir local :) Sécurité sociale, inscription des enfants à l'école, identification auprès des impôts, .... Tout en s'en gardant plein d'autres pour la suite, pour être sûrs de ne pas s'ennuyer (permis de conduire, banque, assurances, ...).
+
+Mais au fond, une petite semaine, calme, qui nous a permis d'encaisser doucement nos **9h de décalage horaire** avec la France. Avant d'entamer la suite !
 
 ---
 
 ## Des vacances dans les vacances
-Après ces quelques jours à Vancouver, nous sommes partis sur l'île de Vancouver, que nous avons parcouru de long en large en Van. Toute une épopée ! Autant pour l'incroyable confort de notre fourgon Ford super bien aménagé que pour l'énergie sans limite dont les enfants ont fait preuve durant nos trajets... Au total, des souvenirs inoubliables :
+Après ces quelques jours à Vancouver, nous sommes partis sur **l'île de Vancouver**, que nous avons parcourue de long en large en Van. **Toute une épopée !** Autant pour l'incroyable confort de notre fourgon Ford super bien aménagé que pour l'énergie sans limite dont les enfants ont fait preuve durant nos trajets... Au total, des souvenirs inoubliables :
 
-* de Tofino et de son immense plage idéale pour le surf...
-![Markdowm Image](/assets/images/posts/IMG_6976.jpg)
+* de **Tofino et de son immense plage** idéale pour le surf...
+![Markdown Image](/assets/images/posts/IMG_6976.jpg)
 <figcaption class="caption">Long Beach</figcaption>
 
-##
-
-* de Victoria et de notre tour en bateau pour aller voir les baleines, orques, phoques et éléphants de mer...
-![Markdowm Image](/assets/images/posts/IMG_6967.jpg)
+* de **Victoria** et de notre tour en bateau pour aller voir les **baleines, orques, phoques et éléphants de mer...**
+![Markdown Image](/assets/images/posts/IMG_6967.jpg)
 <figcaption class="caption">Des éléphants de mer se prélassant au large de Victoria</figcaption>
 
-##
-
-* de la multitude de lacs à l'eau incroyablement limpide!
-![Markdowm Image](/assets/images/posts/IMG_7054.jpg)
+* de la multitude de **lacs** à l'eau incroyablement limpide!
+![Markdown Image](/assets/images/posts/IMG_7054.jpg)
 <figcaption class="caption">Une aire de repos le long de l'Autoroute</figcaption>
 
-##
-
-Et tout simplement de la pratique du camping dans les parcs provinciaux de la Colombie-Britannique, une expérience inoubliable avec ses sites aménages, ses feux de camps et grillades :)
-![Markdowm Image](/assets/images/posts/IMG_6935.jpg)
+Et tout simplement de la pratique du **camping dans les parcs provinciaux de la Colombie-Britannique**, une expérience inoubliable avec ses sites aménages, ses feux de camps et grillades :)
+![Markdown Image](/assets/images/posts/IMG_6935.jpg)
 <figcaption class="caption">Notre premier BC Park, à Gordon Lake</figcaption>
 
+---
 
+## Notre installation
+Sympa les vacances, on aimerait que ça dure, hein les enfants ?.. Mais, la rentrée des classes ici, c'est comme en France, **c'est la première semaine de Septembre** ! Donc, cette fois on pose les valises pour de bon et on les vide pour un moment :) Et ça, ça se passe ici :
+![Markdown Image](/assets/images/posts/carte_NV.jpg)
+<figcaption class="caption">On est là !</figcaption>
 
+On s'installe donc dans une belle petite maison de **North Vancouver**, une ville à deux  ̶p̶a̶s̶ brassées de Vancouver, dans un environnement beaucoup plus... calme. Et "accessoirement" avec la montagne dans le fond du jardin ou presque. Tout comme la mer en fait, mais de l'autre côté :)
+![Markdown Image](/assets/images/posts/vue_maison_N_jpg)
+<figcaption class="caption"> Vue au Nord depuis la maison </figcaption>
+![Markdown Image](/assets/images/posts/vue_maison_S.jpg)
+<figcaption class="caption"> Vue au Sud depuis la maison </figcaption>
 
-##
-##
+Mais... malgré le **Home Cinema** du basement (~sous-sol aménagé) ou encore le **Jacuzzi** extérieur, l'école démarre et il va bien falloir y aller ! Et ce sont finalement 3 petits Français bien timides (et qui ne l'aurait pas été !) avec qui nous sommes allés faire la rentrée **le 3 Septembre**. Charmés par ce premier contact avec l'école canadienne, en fait, tout le monde y est retourné de bon coeur dès le lendemain. Et ça n'a pas vraiment changé depuis ! L'école méritera certainement un billet de blog à elle toute seule, redigé par les enfants :)
 
-
-
-
-
-
-On a profité de notre première semaine pour poser les valises et découvrir Vancouver avec les enfants. Visite du centre-ville typiquement Nord-Américain, des dives et plages du détroit de Burrard et point de vue sur les fabuleux paysages naturels entourant Vancouver.
-
-This note **demonstrates** some of what [Markdown][1] is *capable of doing*.
-
-And that's how to do it.
-
-{% highlight html %}
-This note **demonstrates** some of what [Markdown][some/link] is *capable of doing*.
-{% endhighlight %}
+Les enfants à l'école, que font les parents ? Le prétexte de nouvelles démarches dure quelques jours (achat voiture, assurances diverses, abandon du permis français au profit de celui de C-B, ...) mais il faut se rendre à l'évidence : il va nous falloir **nous mettre à chercher du boulot** maintenant ! Ce nouveau "chantier" est lancé officiellement le 9 Septembre.
 
 ---
 
-## Headings
+*La suite dans un nouveau billet à venir !*
 
-There are six levels of headings. They correspond with the six levels of HTML headings. You've probably noticed them already in the page. Each level down uses one more hash character. But we are using just 4 of them.
-
-# Headings can be small
-
-## Headings can be small
-
-### Headings can be small
-
-#### Headings can be small
-
-{% highlight raw %}
-# Heading
-## Heading
-### Heading
-#### Heading
-{% endhighlight %}
-
----
-
-## Lists
-
-### Ordered list
-
-1. Item 1
-2. A second item
-3. Number 3
-
-{% highlight raw %}
-1. Item 1
-2. A second item
-3. Number 3
-{% endhighlight %}
-
-### Unordered list
-
-* An item
-* Another item
-* Yet another item
-* And there's more...
-
-{% highlight raw %}
-* An item
-* Another item
-* Yet another item
-* And there's more...
-{% endhighlight %}
-
----
-
-## Paragraph modifiers
-
-### Quote
-
-> Here is a quote. What this is should be self explanatory. Quotes are automatically indented when they are used.
-
-{% highlight raw %}
-> Here is a quote. What this is should be self explanatory.
-{% endhighlight raw %}
-
----
-
-## URLs
-
-URLs can be made in a handful of ways:
-
-* A named link to [Mark It Down][3].
-* Another named link to [Mark It Down](http://markitdown.net/)
-* Sometimes you just want a URL like <http://markitdown.net/>.
-
-{% highlight raw %}
-* A named link to [MarkItDown][3].
-* Another named link to [MarkItDown](http://markitdown.net/)
-* Sometimes you just want a URL like <http://markitdown.net/>.
-{% endhighlight %}
-
----
-
-## Horizontal rule
-
-A horizontal rule is a line that goes across the middle of the page.
-It's sometimes handy for breaking things up.
-
-{% highlight raw %}
----
-{% endhighlight %}
-
----
-
-## Images
-
-Markdown can also contain images. I'll need to add something here sometime.
-
-{% highlight raw %}
-![Markdowm Image][/image/url]
-{% endhighlight %}
-
-![Markdowm Image][6]
-
-*Figure Caption*?
-
-{% highlight raw %}
-![Markdowm Image][/image/url]
-<figcaption class="caption">Photo by John Doe</figcaption>
-{% endhighlight %}
-
-![Markdowm Image][6]
-<figcaption class="caption">Photo by John Doe</figcaption>
-
-*Bigger Images*?
-
-{% highlight raw %}
-![Markdowm Image][/image/url]{: class="bigger-image" }
-{% endhighlight %}
-
-![Markdowm Image][6]{: class="bigger-image" }
-
----
-
-## Code
-
-A HTML Example:
-
-{% highlight html %}
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Document</title>
-</head>
-<body>
-    <h1>Just a test</h1>
-</body>
-</html>
-{% endhighlight %}
-
-A CSS Example:
-
-{% highlight css %}
-pre {
-    padding: 10px;
-    font-size: .8em;
-    white-space: pre;
-}
-
-pre, table {
-    width: 100%;
-}
-
-code, pre, tt {
-    font-family: Monaco, Consolas, Inconsolata, monospace, sans-serif;
-    background: rgba(0,0,0,.05);
-}
-{% endhighlight %}
-
-A JS Example:
-
-{% highlight js %}
-// Sticky Header
-$(window).scroll(function() {
-
-    if ($(window).scrollTop() > 900 && !$("body").hasClass('show-menu')) {
-        $('#hamburguer__open').fadeOut('fast');
-    } else if (!$("body").hasClass('show-menu')) {
-        $('#hamburguer__open').fadeIn('fast');
-    }
-
-});
-{% endhighlight %}
-
-[1]: http://daringfireball.net/projects/markdown/
-[2]: http://www.fileformat.info/info/unicode/char/2163/index.htm
-[3]: http://www.markitdown.net/
-[4]: http://daringfireball.net/projects/markdown/basics
-[5]: http://daringfireball.net/projects/markdown/syntax
-[6]: http://kune.fr/wp-content/uploads/2013/10/ghost-blog.jpg
+*En attendant, n'hésitez pas à réagir en utilisant les commentaires ci-dessous !*
