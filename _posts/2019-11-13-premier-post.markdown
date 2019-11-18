@@ -22,9 +22,10 @@ Voilà maintenant 3 mois que nous avons atterri à Vancouver. Déjà beaucoup de
 ## Nos premiers jours
 
 ![Markdowm Image](/assets/images/posts/IMG_6893.jpg)
-<figcaption class="caption">Jericho beach</figcaption>  
+<figcaption class="caption">Jericho beach</figcaption>
 
 
+  
 On a profité de notre première semaine pour poser les valises et découvrir Vancouver avec les enfants. Visite du **centre-ville** typiquement Nord-Américain, des rives et plages du **détroit de Burrard**, points de vue sur les **fabuleux paysages naturels** entourant Vancouver...
 
 Bon, nous n'avons évidemment pas échappé à quelques démarches administratives pour pouvoir assurer notre avenir local :) Sécurité sociale, inscription des enfants à l'école, identification auprès des impôts, .... Tout en s'en gardant plein d'autres pour la suite, pour être sûrs de ne pas s'ennuyer (permis de conduire, banque, assurances, ...).
