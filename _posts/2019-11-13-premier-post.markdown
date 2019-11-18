@@ -39,18 +39,22 @@ Mais au fond, une petite semaine, calme, qui nous a permis d'encaisser doucement
 Après ces quelques jours à Vancouver, nous sommes partis sur **l'île de Vancouver**, que nous avons parcourue de long en large en Van. **Toute une épopée !** Autant pour l'incroyable confort de notre fourgon Ford super bien aménagé que pour l'énergie sans limite dont les enfants ont fait preuve durant nos trajets... Au total, des souvenirs inoubliables :
 
 * de **Tofino et de son immense plage** idéale pour le surf...
+
 ![Markdown Image](/assets/images/posts/IMG_6976.jpg)
 <figcaption class="caption">Long Beach</figcaption>
 
 * de **Victoria** et de notre tour en bateau pour aller voir les **baleines, orques, phoques et éléphants de mer...**
+
 ![Markdown Image](/assets/images/posts/IMG_6967.jpg)
 <figcaption class="caption">Des éléphants de mer se prélassant au large de Victoria</figcaption>
 
 * de la multitude de **lacs** à l'eau incroyablement limpide!
+
 ![Markdown Image](/assets/images/posts/IMG_7054.jpg)
 <figcaption class="caption">Une aire de repos le long de l'Autoroute</figcaption>
 
 Et tout simplement de la pratique du **camping dans les parcs provinciaux de la Colombie-Britannique**, une expérience inoubliable avec ses sites aménages, ses feux de camps et grillades :)
+
 ![Markdown Image](/assets/images/posts/IMG_6935.jpg)
 <figcaption class="caption">Notre premier BC Park, à Gordon Lake</figcaption>
 
