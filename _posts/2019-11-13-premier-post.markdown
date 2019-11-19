@@ -26,7 +26,6 @@ On a profité de notre première semaine pour poser les valises et découvrir Va
 <figcaption class="caption">Jericho beach</figcaption>
 
 <div class="breaker"></div>
-
 Bon, nous n'avons évidemment pas échappé à quelques démarches administratives pour pouvoir assurer notre avenir local :) Sécurité sociale, inscription des enfants à l'école, identification auprès des impôts, .... Tout en s'en gardant plein d'autres pour la suite, pour être sûrs de ne pas s'ennuyer (permis de conduire, banque, assurances, ...).
 
 Mais au fond, une petite semaine, calme, qui nous a permis d'encaisser doucement nos **9h de décalage horaire** avec la France. Avant d'entamer la suite !
