@@ -40,7 +40,8 @@ Au total, des souvenirs inoubliables :
 
 ![Markdown Image](/assets/images/posts/IMG_6976.jpg)
 <figcaption class="caption">Long Beach</figcaption>
-<div class="br"></div>
+
+<div class="breaker"></div>
 
 * de **Victoria** et de notre tour en bateau pour aller voir les **baleines, orques, phoques et éléphants de mer...**
 
