@@ -36,15 +36,17 @@ Mais au fond, une petite semaine, calme, qui nous a permis d'encaisser doucement
 ---
 
 ## Des vacances dans les vacances
-Après ces quelques jours à Vancouver, nous sommes partis sur **l'île de Vancouver**, que nous avons parcourue de long en large en Van. **Toute une épopée !** Autant pour l'incroyable confort de notre fourgon Ford super bien aménagé que pour l'énergie sans limite dont les enfants ont fait preuve durant nos trajets... Au total, des souvenirs inoubliables :
+Après ces quelques jours à Vancouver, nous sommes partis sur **l'île de Vancouver**, que nous avons parcourue de long en large en Van. **Toute une épopée !** Autant pour l'incroyable confort de notre fourgon Ford super bien aménagé que pour l'énergie sans limite dont les enfants ont fait preuve durant nos trajets...
+
+Au total, des souvenirs inoubliables :
 
 * de **Tofino et de son immense plage** idéale pour le surf...
 
 ![Markdown Image](/assets/images/posts/IMG_6976.jpg)
 <figcaption class="caption">Long Beach</figcaption>
+##  
 
-
-   * de **Victoria** et de notre tour en bateau pour aller voir les **baleines, orques, phoques et éléphants de mer...**
+* de **Victoria** et de notre tour en bateau pour aller voir les **baleines, orques, phoques et éléphants de mer...**
 
 ![Markdown Image](/assets/images/posts/IMG_6967.jpg)
 <figcaption class="caption">Des éléphants de mer se prélassant au large de Victoria</figcaption>
@@ -63,11 +65,12 @@ Et tout simplement de la pratique du **camping dans les parcs provinciaux de la 
 
 ## Notre installation
 Sympa les vacances, on aimerait que ça dure, hein les enfants ?.. Mais, la rentrée des classes ici, c'est comme en France, **c'est la première semaine de Septembre** ! Donc, cette fois on pose les valises pour de bon et on les vide pour un moment :) Et ça, ça se passe ici :
+
 ![Markdown Image](/assets/images/posts/carte_NV.jpg)
 <figcaption class="caption">On est là !</figcaption>
 
 On s'installe donc dans une belle petite maison de **North Vancouver**, une ville à deux  ̶p̶a̶s̶ brassées de Vancouver, dans un environnement beaucoup plus... calme. Et "accessoirement" avec la montagne dans le fond du jardin ou presque. Tout comme la mer en fait, mais de l'autre côté :)
-![Markdown Image](/assets/images/posts/vue_maison_N_jpg)
+![Markdown Image](/assets/images/posts/vue_maison_N.jpg)
 <figcaption class="caption"> Vue au Nord depuis la maison </figcaption>
 ![Markdown Image](/assets/images/posts/vue_maison_S.jpg)
 <figcaption class="caption"> Vue au Sud depuis la maison </figcaption>
