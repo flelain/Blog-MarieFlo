@@ -25,6 +25,8 @@ On a profité de notre première semaine pour poser les valises et découvrir Va
 ![Markdowm Image](/assets/images/posts/IMG_6893.jpg)
 <figcaption class="caption">Jericho beach</figcaption>
 
+<div class="breaker"></div>
+
 Bon, nous n'avons évidemment pas échappé à quelques démarches administratives pour pouvoir assurer notre avenir local :) Sécurité sociale, inscription des enfants à l'école, identification auprès des impôts, .... Tout en s'en gardant plein d'autres pour la suite, pour être sûrs de ne pas s'ennuyer (permis de conduire, banque, assurances, ...).
 
 Mais au fond, une petite semaine, calme, qui nous a permis d'encaisser doucement nos **9h de décalage horaire** avec la France. Avant d'entamer la suite !
@@ -48,10 +50,14 @@ Au total, des souvenirs inoubliables :
 ![Markdown Image](/assets/images/posts/IMG_6967.jpg)
 <figcaption class="caption">Des éléphants de mer se prélassant au large de Victoria</figcaption>
 
+<div class="breaker"></div>
+
 * de la multitude de **lacs** à l'eau incroyablement limpide!
 
 ![Markdown Image](/assets/images/posts/IMG_7054.jpg)
 <figcaption class="caption">Une aire de repos le long de l'Autoroute</figcaption>
+
+<div class="breaker"></div>
 
 Et tout simplement de la pratique du **camping dans les parcs provinciaux de la Colombie-Britannique**, une expérience inoubliable avec ses sites aménages, ses feux de camps et grillades :)
 
@@ -66,11 +72,18 @@ Sympa les vacances, on aimerait que ça dure, hein les enfants ?.. Mais, la rent
 ![Markdown Image](/assets/images/posts/carte_NV.jpg)
 <figcaption class="caption">On est là !</figcaption>
 
+<div class="breaker"></div>
+
 On s'installe donc dans une belle petite maison de **North Vancouver**, une ville à deux  ̶p̶a̶s̶ brassées de Vancouver, dans un environnement beaucoup plus... calme. Et "accessoirement" avec la montagne dans le fond du jardin ou presque. Tout comme la mer en fait, mais de l'autre côté :)
 ![Markdown Image](/assets/images/posts/vue_maison_N.jpg)
 <figcaption class="caption"> Vue au Nord depuis la maison </figcaption>
+
+<div class="breaker"></div>
+
 ![Markdown Image](/assets/images/posts/vue_maison_S.jpg)
 <figcaption class="caption"> Vue au Sud depuis la maison </figcaption>
+
+<div class="breaker"></div>
 
 Mais... malgré le **Home Cinema** du basement (~sous-sol aménagé) ou encore le **Jacuzzi** extérieur, l'école démarre et il va bien falloir y aller ! Et ce sont finalement 3 petits Français bien timides (et qui ne l'aurait pas été !) avec qui nous sommes allés faire la rentrée **le 3 Septembre**. Charmés par ce premier contact avec l'école canadienne, en fait, tout le monde y est retourné de bon coeur dès le lendemain. Et ça n'a pas vraiment changé depuis ! L'école méritera certainement un billet de blog à elle toute seule, redigé par les enfants :)
 
