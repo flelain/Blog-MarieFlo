@@ -10,7 +10,7 @@ tag:
 - jekyll
 - github
 star: true
-category: projects
+category: project
 author: florentlelain
 description: description de mon projet de création de blog sur le Cloud AWS
 ---
