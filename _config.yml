@@ -1,6 +1,6 @@
 # main text of home
 name: Les JegLain au Canada
-bio: L'aventure à cinq au pays des ours et des caribous
+bio: Une véritable aventure en famille dans l'Ouest Canadien
 
 # twitter summary info
 # description: A blog about technology and stuff related
@@ -51,12 +51,12 @@ github: florentlelain
 # medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: blog_jeglain@gmail.com
+email: blog.jeglain@gmail.com
 
 authors:
     florentlelain:
         name: Florent Le Lain
-        bio: An urban cyclist riding between Cesson and Vancouver
+        bio: An urban cyclist who rides with great delight as well in Rennes or Vancouver
         external-image: false
         picture: assets/images/avatar_flo.jpg
         # twitter: johndoe

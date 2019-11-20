@@ -1,15 +1,15 @@
 ---
-title: "Création et mise en ligne de notre blog"
+title: "Blog creation and launch"
 layout: post
 date: 2019-11-19 22:17
-image: /assets/images/markdown.jpg
+image: assets/images/Canada_flag.jpg
 headerImage: false
 tag:
+- Cloud
 - AWS
-- Apache
 - jekyll
 - github
-star: true
+star: false
 category: project
 projects: true
 author: florentlelain

@@ -2,12 +2,12 @@
 title: "Bienvenue sur notre Blog !"
 layout: post
 date: 2019-11-13 21:15
-image: /assets/images/markdown.jpg
+image: assets/images/Canada_flag.jpg
 headerImage: false
 tag:
 - markdown
 - blog
-star: true
+star: false
 category: blog
 author: florentlelain
 description: ouverture de notre blog et... premier post
