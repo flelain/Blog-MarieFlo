@@ -1,0 +1,20 @@
+---
+title: "Création et mise en ligne de notre blog"
+layout: post
+date: 2019-11-19 22:17
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- AWS
+- Apache
+- jekyll
+- github
+star: true
+category: projects
+author: florentlelain
+description: description de mon projet de création de blog sur le Cloud AWS
+---
+
+*Contenu à venir*
+
+---
