@@ -11,6 +11,7 @@ tag:
 - github
 star: true
 category: project
+projects: true
 author: florentlelain
 description: description de mon projet de création de blog sur le Cloud AWS
 ---
