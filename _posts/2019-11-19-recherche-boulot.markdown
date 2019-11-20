@@ -17,4 +17,4 @@ description: la recherche d'un boulot
 
 <div class="breaker"></div>
 
-![Markdowm Image](/assets/images/posts/mme_boulot.jpg)
+![Markdowm Image](/assets/images/posts/mme-boulot.jpg)
