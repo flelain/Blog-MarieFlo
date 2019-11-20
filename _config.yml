@@ -16,7 +16,7 @@ resume: false
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: http://35.163.18.175/_site
+url: http://www.blog.jeglain.net
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
