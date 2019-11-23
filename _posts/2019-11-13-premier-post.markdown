@@ -9,7 +9,7 @@ tag:
 - blog
 star: false
 category: blog
-author: florentlelain
+author: flelain
 description: ouverture de notre blog et... premier post
 ---
 

@@ -8,4 +8,4 @@ layout: page
 
 <p>Many thanks to <a href="https://github.com/sergiokopplin/">Sergio Kopplin</a> and its minimalist <a href="https://github.com/sergiokopplin/indigo">Indigo Template</a> with which I quickly set up this website and learnt a lot in the same time!
 
-To know more about this site and what it is made of, please go to <a href="https://github.com/florentlelain">my github</a>.
+To know more about this site and what it is made of, please go to <a href="https://github.com/flelain">my github</a>.

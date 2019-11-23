@@ -39,10 +39,10 @@ disqus:
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-linkedin: florent-le-lain-a696b
+# linkedin: florent-le-lain-a696b
 # youtube: myyoutube
 # spotify: myspotify
-github: florentlelain
+github: flelain
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
@@ -54,8 +54,8 @@ github: florentlelain
 email: blog.jeglain@gmail.com
 
 authors:
-    florentlelain:
-        name: Florent Le Lain
+    flelain:
+        name: flelain
         bio: An urban cyclist who rides with great delight as well in Rennes or Vancouver
         external-image: false
         picture: assets/images/avatar_flo.jpg
