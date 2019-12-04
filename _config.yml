@@ -33,6 +33,9 @@ disqus:
   shortname:  # enter this from your disqus account
   categories: [] # only show disqus for posts that have these categories
 
+justcomments:
+  categories: [blog,project]
+
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
 # twitter: mytwitter
