@@ -1,5 +1,5 @@
 ---
-title: "!!! NEW !!! La recherche de boulot"
+title: "La recherche de boulot"
 layout: post
 date: 2019-11-22 21:22
 image: assets/images/Canada_flag.jpg
@@ -8,7 +8,7 @@ tag:
 - job
 - IT
 - Cloud
-star: true
+star: false
 category: blog
 author: flelain
 description: la recherche d'un boulot
