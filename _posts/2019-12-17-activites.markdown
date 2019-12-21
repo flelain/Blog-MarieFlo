@@ -1,7 +1,7 @@
 ---
 title: "Vancouver et ses environs : un terrain de jeu incroyable !"
 layout: post
-date: 2019-12-17 22:00
+date: 2019-12-20 22:30
 image: /assets/images/posts/Vancouver_Grouse.jpg
 headerImage: false
 tag:
@@ -12,7 +12,7 @@ tag:
 - Lynn
 star: false
 category: blog
-projects: true
+projects: false
 author: flelain
 description: petit focus sur nos activités à Vancouver et sa région
 ---
