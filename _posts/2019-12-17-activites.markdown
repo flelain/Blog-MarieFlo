@@ -30,14 +30,17 @@ Eh bien, une fois ce point de situation fait, je réalise d'autant plus que l'on
 - **le vélo** :
     - presque tous les jours en mode urbain, pour aller à l'école et au travail
     - testé en "tout-terrain" avec les enfants à <a href="https://www.trailforks.com/region/mount-fromme/">Mountain Fromme</a>, à 15min de la maison en voiture. C'est un véritable parc de VTT, avec des pistes abordables, même pour les enfants et d'autres... plus orientées experts... Cf <a href="https://www.youtube.com/watch?v=HG2D7qRermo">vidéo piste Imonator</a>.... Ici, avant le départ sur une "piste verte" :
-    ![Markdowm Image](/assets/images/posts/VTT_Fromme.JPG)
+
+![Markdowm Image](/assets/images/posts/VTT_Fromme.JPG)
 
 - **le kayak**, avec des panoramas à couper le souffle...
+
 ![Markdowm Image](/assets/images/posts/kayak.JPG)
 
 - **le patin à glace**, en patinoire intérieure ou extérieure comme ici à Grouse :
- <iframe width="560" height="310" src="/assets/videos/IMG_7751.MOV" frameborder="0" allowfullscreen></iframe>
-Les enfants débutent mais se débrouillent déjà pas mal !
+
+![Markdowm Image](/assets/images/posts/skating.JPG)
+<figcaption class="caption">Les enfants débutent mais se débrouillent déjà pas mal !</figcaption>
 
 - **le ski** ; l'hiver approche, les sommets qui nous entourent blanchissent... et les stations ouvrent ! Nous avons pris des forfaits saison pour <a href="https://www.cypressmountain.com/">Cypress Mountain</a> l'une des stations les plus proches de chez nous. On essaie d'y aller au moins une fois tous les WE. En tant que Bretons qui aiment skier, on apprécie tous les 5 de pouvoir y aller aussi régulièrement, pour quelques heures, à seulement 20min en voiture de la maison !
 
@@ -47,7 +50,7 @@ Les enfants débutent mais se débrouillent déjà pas mal !
 
 Mais ça donne globalement une bonne idée de nos activités de plein air jusque-là. Ca devrait déjà suffire pour vous donner envie de venir, non ? :)
 
- Bien sûr, il faudra que l'on vous raconte toutes sortes d'autres activités qui nous occupent. Et là j'en ai une qui me vient immédiatement en tête... ah, Marie pense à la même chose aussi... et c'est presque "contre-culture" d'en faire plus ici qu'en France... Allez, je ne vous fait pas mariner plus longtemps : il s'agit de la **cuisine**. Mais, je n'en dis pas plus, ce sujet méritera à lui seul un billet sur le blog :)
+Bien sûr, il faudra que l'on vous raconte toutes sortes d'autres activités qui nous occupent. Et là j'en ai une qui me vient immédiatement en tête... ah, Marie pense à la même chose aussi... et c'est presque "contre-culture" d'en faire plus ici qu'en France... Allez, je ne vous fait pas mariner plus longtemps : il s'agit de la **cuisine**. Mais, je n'en dis pas plus, ce sujet méritera à lui seul un billet sur le blog :)
 
 A bientôt !
 
