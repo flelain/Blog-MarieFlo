@@ -62,6 +62,13 @@ authors:
         bio: An urban cyclist who rides with great delight as well in Rennes or Vancouver
         external-image: false
         picture: assets/images/avatar_flo.jpg
+
+    lulu:
+      name: lulu
+      bio: jeune auteur de 9 ans, en train d'écrire son deuxième roman
+      external-image: false
+      picture: assets/images/avatar_lu.jpg
+
         # twitter: johndoe
     # jamesfoster:
     #    name: James Foster
