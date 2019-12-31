@@ -26,9 +26,7 @@ description: test post to try some new stuff
 
 - **le patin à glace**, en patinoire intérieure ou extérieure comme ici à Grouse :
 
-<iframe width="560" height="310" src="/assets/videos/IMG_7751.mp4" frameborder="0" allowfullscreen></iframe>
-
-<iframe width="560" height="310" src="/assets/videos/IMG_7751.flv" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="310" src="/assets/videos/IMG_7751.mp4" frameborder="0" allowfullscreen autoplay="false"></iframe>
 
 
 ![Markdowm Image](/assets/images/posts/skating.JPG)
