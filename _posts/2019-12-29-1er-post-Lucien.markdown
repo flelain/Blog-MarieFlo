@@ -32,7 +32,6 @@ A l'heure de manger, on prend nos boîtes à lunch (=boîtes à dîner=popotes d
 <figcaption class="caption">Voilà à quoi ressemble ma boîte à Lunch</figcaption>
 
 <br>
-<br>
 Après l'école, depuis début décembre, je vais à la garderie avec mon animateur, Hicham. On fait les devoirs, on prend le goûter et après on joue.
 
 A bientôt !
