@@ -7,7 +7,7 @@ headerImage: false
 tag:
 - test
 star: false
-category: blog
+category: 
 projects: false
 author: flelain
 description: test post to try some new stuff
