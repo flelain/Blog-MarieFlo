@@ -37,9 +37,9 @@ Eh bien, une fois ce point de situation fait, je réalise d'autant plus que l'on
 
 ![Markdowm Image](/assets/images/posts/kayak.JPG)
 
-- **le patin à glace**, en patinoire intérieure ou extérieure comme ici à Grouse :
+- **le patin à glace**, en patinoire intérieure ou extérieure comme ici à Grouse Mountain :
 
-<iframe width="560" height="310" src="/assets/videos/Grouse_skating_2019_Dec.mp4" frameborder="0" allowfullscreen autoplay="false"></iframe>
+<iframe width="560" height="310" src="/assets/videos/Grouse_skating_2019_Dec.mp4" frameborder="0" allowfullscreen preload="none"></iframe>
 
 - **le ski** ; l'hiver approche, les sommets qui nous entourent blanchissent... et les stations ouvrent ! Nous avons pris des forfaits saison pour <a href="https://www.cypressmountain.com/">Cypress Mountain</a> l'une des stations les plus proches de chez nous. On essaie d'y aller au moins une fois tous les WE. En tant que Bretons qui aiment skier, on apprécie tous les 5 de pouvoir y aller aussi régulièrement, pour quelques heures, à seulement 20min en voiture de la maison !
 
