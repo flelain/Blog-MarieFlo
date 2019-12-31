@@ -28,6 +28,9 @@ description: test post to try some new stuff
 
 <iframe width="560" height="310" src="/assets/videos/IMG_7751.mp4" frameborder="0" allowfullscreen></iframe>
 
+<iframe width="560" height="310" src="/assets/videos/IMG_7751.flv" frameborder="0" allowfullscreen></iframe>
+
+
 ![Markdowm Image](/assets/images/posts/skating.JPG)
 <figcaption class="caption">Les enfants débutent mais se débrouillent déjà pas mal !</figcaption>
 
