@@ -10,11 +10,11 @@ layout: page
 
 ---
 <form method="post" action="/controller.php">
-  <b>Prénom/First name</b> : <input type="text" size="20" name="first name" placeholder="Votre prénom/Your first name">
+  <b>Prénom/First name</b> : <input type="text" size="25" name="first_name" placeholder="Votre prénom/Your first name">
   <br>
-  <b>Nom/Last name</b> : <input type="text" size="20" name="last name" placeholder="Votre nom/Your last name">
+  <b>Nom/Last name</b> : <input type="text" size="20" name="last_name" placeholder="Votre nom/Your last name">
   <br>
-  <b>Email</b> : <input type="email" size="20" name="email" placeholder="Votre @ mail/Your email @">
+  <b>Email</b> : <input type="email" size="20" name="email" placeholder="Votre @mail/Your email @">
   <br>
   <input type="submit" value="Submit" />
 </form>
