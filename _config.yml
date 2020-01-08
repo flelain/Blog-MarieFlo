@@ -16,7 +16,7 @@ resume: false
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: http://34.83.137.165 
+url: http://34.83.137.165
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -90,7 +90,7 @@ width: normal
 projects: true
 
 # if you don't need "about" or "blog", comment them out below
-about: true
+subscribe: true
 blog: true
 
 # do you want to show the "read time" of the posts?
