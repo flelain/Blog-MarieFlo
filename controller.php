@@ -3,8 +3,8 @@
   if ($_SERVER["REQUEST_METHOD"] == "POST") {
     //identifiants mysql
     $host = "localhost";
-    $username = "root";
-    $password = "root";
+    $username = "DB_ADMIN";
+    $password = "DB_@DMIN_P@SS!";
     $database = "subscribers";
     $first_name = $_POST["first_name"];
     $last_name = $_POST["last_name"];
