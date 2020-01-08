@@ -10,7 +10,7 @@
     $last_name = $_POST["last name"];
     $email = $_POST["email"];
 
-    if (!isset($fisrt_name)){
+    if (!isset($first_name)){
       die("S'il vous plaît entrez votre prénom/Please enter your first name");
     }
     if (!isset($last_name)){
