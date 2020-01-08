@@ -10,16 +10,19 @@ layout: page
 <p> If you wish to be notified as soon as we publish a new post, please leave your first/last names and email address below!</p>
 
 ---
-<form method="post" action="controller.php">
+<form method="post" action="/controller.php">
   <b>Prénom/First name</b> : <input type="text" size="40" name="first name" placeholder="Entrez votre nom/Enter your first name">
+  <br>
   <b>Nom/Last name</b> : <input type="text" size="40" name="last name" placeholder="Entrez votre nom/Enter your last name">
+  <br>
   <b>Email</b> : <input type="email" size="40" name="email" placeholder="Entrer votre adresse mail/Enter your email address">
+  <br>
   <input type="submit" value="Submit" />
 </form>
 
-Merci pour votre intérêt pour nos périgrinations nord-américaines ! :)
+<p>Merci pour votre intérêt pour nos périgrinations nord-américaines ! :) </p>
 ---
-Thanks for your interest in our North-American adventures! :)
+<p>Thanks for your interest in our North-American adventures! :) </p>
 
 ---
 <h1>About this site</h1>
