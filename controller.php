@@ -5,7 +5,7 @@
     $host = "localhost";
     $username = "DB_ADMIN";
     $password = "DB_@DMIN_P@SS!";
-    $database = "subscribers";
+    $database = "BLOG";
     $first_name = $_POST["first_name"];
     $last_name = $_POST["last_name"];
     $email = $_POST["email"];
@@ -28,9 +28,9 @@
     }
 
     //préparer la requête d'insertion SQL
-    $statement = $mysqli->prepare("INSERT INTO users (name, email) VALUES(?, ?)");
+    $statement = $mysqli->prepare("INSERT INTO subscribers (first_name, last_name, email) VALUES(?, ?, ?)");
     //Associer les valeurs et exécuter la requête d'insertion
-    $statement->bind_param('sss', $name, $email);
+    $statement->bind_param('sss', $first_name, $last_name, $email);
 
     if($statement->execute()){
       print "Salut " . $first_name . "!, votre adresse e-mail est ". $email;
