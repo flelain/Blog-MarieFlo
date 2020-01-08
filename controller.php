@@ -4,7 +4,7 @@
     //identifiants mysql
     $host = "localhost";
     $username = "root";
-    $password = "";
+    $password = "root";
     $database = "subscribers";
     $first_name = $_POST["first_name"];
     $last_name = $_POST["last_name"];
