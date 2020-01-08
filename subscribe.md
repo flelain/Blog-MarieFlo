@@ -3,24 +3,22 @@ title: Subscribe
 layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
-
+<br>
+<br>
 <p>Si vous souhaitez être averti de la publication d'un nouveau billet sur le blog, laissez-nous vos nom/prénom et adresse email ci-dessous !</p>
-
 ---
-
 <p> If you wish to be notified as soon as we publish a new post, please leave your first/last names and email address below!</p>
 
 ---
-
 <form method="post" action="controller.php">
-  **Prénom/First name** : <input type="text" name="first name" placeholder="Entrez votre nom/Enter your first name" /><br />
-  **Nom/Last name** : <input type="text" name="last name" placeholder="Entrez votre nom/Enter your last name" /><br />
-  **Email** : <input type="email" name="email" placeholder="Entrer votre adresse mail/Enter your email address" /><br />
+  <b>Prénom/First name</b> : <input type="text" size=40 name="first name" placeholder="Entrez votre nom/Enter your first name" /><br />
+  <b>Nom/Last name</b> : <input type="text" size=40 name="last name" placeholder="Entrez votre nom/Enter your last name" /><br />
+  <b>Email<//b> : <input type="email" size=40 name="email" placeholder="Entrer votre adresse mail/Enter your email address" /><br />
   <input type="submit" value="Submit" />
 </form>
 
 Merci pour votre intérêt pour nos périgrinations nord-américaines ! :)
-
+---
 Thanks for your interest in our North-American adventures! :)
 
 ---
