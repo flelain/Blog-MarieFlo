@@ -11,9 +11,9 @@ layout: page
 
 ---
 <form method="post" action="controller.php">
-  <b>Prénom/First name</b> : <input type="text" size="40" name="first name" placeholder="Entrez votre nom/Enter your first name" /><br />
-  <b>Nom/Last name</b> : <input type="text" size="40" name="last name" placeholder="Entrez votre nom/Enter your last name" /><br />
-  <b>Email<//b> : <input type="email" size="40" name="email" placeholder="Entrer votre adresse mail/Enter your email address" /><br />
+  <b>Prénom/First name</b> : <input type="text" size="40" name="first name" placeholder="Entrez votre nom/Enter your first name">
+  <b>Nom/Last name</b> : <input type="text" size="40" name="last name" placeholder="Entrez votre nom/Enter your last name">
+  <b>Email</b> : <input type="email" size="40" name="email" placeholder="Entrer votre adresse mail/Enter your email address">
   <input type="submit" value="Submit" />
 </form>
 
