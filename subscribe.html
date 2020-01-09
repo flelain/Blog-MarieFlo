@@ -20,9 +20,9 @@ layout: page
     <input type="submit" value="Submit">
   </form>
 
-{% raw %}
   <?php
     {% comment %}// Check script started by a form{% endcomment %}
+    {% raw %}
     if ($_SERVER["REQUEST_METHOD"] == "POST") {
       {% comment %}//identifiants mysql{% endcomment %}
       $host = "localhost";
@@ -63,9 +63,10 @@ layout: page
         print $mysqli->error;
       }
     }
+    {% endraw %}
   ?>
 
-{% endraw %}
+
 
 ---
 <h2>About this site</h2>
