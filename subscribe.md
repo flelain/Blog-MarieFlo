@@ -16,7 +16,7 @@ layout: page
   <br>
   <b>Email</b> : <input type="email" size="20" name="email" placeholder="Votre @mail/Your email @">
   <br>
-  <input type="submit" formtarget="_parent" value="Submit">
+  <input type="submit" formtarget="_top" value="Submit">
 </form>
 
 <p>Merci pour votre intérêt pour nos périgrinations nord-américaines ! :) </p>
