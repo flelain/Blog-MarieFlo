@@ -21,7 +21,13 @@ layout: page
   </form>
 
   <?php
-    {% comment %}// Check script started by a form{% endcomment %}
+  echo "Hello world";
+  // Hello world
+  ?>
+
+  {% comment %}
+  <?php
+    // Check script started by a form
     if ($_SERVER["REQUEST_METHOD"] == "POST") {
       //identifiants mysql
       $host = "localhost";
@@ -63,7 +69,7 @@ layout: page
       }
     }
   ?>
-
+{% endcomment %}
 
 
 ---
