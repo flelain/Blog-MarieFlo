@@ -18,7 +18,9 @@ title: Subscribe
 </form>
 
 <?php
+  echo "debug!";
   include "/controller.php";
+  echo "redebug!";
 ?>
 
 ---
