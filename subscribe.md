@@ -9,12 +9,12 @@ title: Subscribe
 <br>
 
 <form method="post" action="/controller.php">
-  <b>Prénom/First name</b> : <input type="text" size="20" name="first_name">
-  <br>
-  <b>Nom/Last name</b> : <input type="text" size="20" name="last_name">
-  <br>
-  <b>Email</b> : <input type="email" size="20" name="email">
-  <br>
+  <b>Prénom/First name</b> : <input type="text" size="20" name="first_name" />
+  <br />
+  <b>Nom/Last name</b> : <input type="text" size="20" name="last_name" />
+  <br />
+  <b>Email</b> : <input type="email" size="20" name="email" />
+  <br />
   <input type="submit" value="Submit">
 </form>
 
