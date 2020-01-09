@@ -8,7 +8,7 @@ title: Subscribe
 <p><i> If you wish to be notified as soon as we publish a new post, please leave your first/last names and email address below!</i></p>
 <br>
 
-<form method="post" action="/controller.php">
+<form method="post" action="controller.php">
   <b>Prénom/First name</b> : <input type="text" size="20" name="first_name" />
   <br />
   <b>Nom/Last name</b> : <input type="text" size="20" name="last_name" />
