@@ -40,5 +40,4 @@
       print $mysqli->error;
     }
   }
-return;
 ?>
