@@ -9,18 +9,22 @@ layout: page
 <p><i> If you wish to be notified as soon as we publish a new post, please leave your first/last names and email address below!</i></p>
 
 ---
-<form method="post" action="/controller.php">
+<form method="post" action="/controller.php" onsubmit="merci()">
   <b>Prénom/First name</b> : <input type="text" size="25" name="first_name" placeholder="Votre prénom/Your first name">
   <br>
   <b>Nom/Last name</b> : <input type="text" size="20" name="last_name" placeholder="Votre nom/Your last name">
   <br>
-  <b>Email</b> : <input type="email" size="20" name="email" placeholder="Votre @mail/Your email @">
+  <b>Email</b> : <input type="email" size="20" name="email" placeholder="@email">
   <br>
-  <input type="submit" formtarget="_top" value="Submit">
+  <input type="submit" value="Submit">
 </form>
 
-<p>Merci pour votre intérêt pour nos périgrinations nord-américaines ! :) </p>
-<p><i>Thanks for your interest in our North-American adventures! :) </i></p>
+<script>
+function merci() {
+  document.write("<p>Merci pour votre intérêt pour nos périgrinations nord-américaines ! :) </p>");
+  document.write("<br><p><i>Thanks for your interest in our North-American adventures! :) </i></p>");
+}
+</script>
 
 ---
 <h2>About this site</h2>

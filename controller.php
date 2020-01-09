@@ -33,7 +33,7 @@
     $statement->bind_param('sss', $first_name, $last_name, $email);
 
     if($statement->execute()){
-      print "Salut " . $first_name . "!, votre adresse e-mail est ". $email;
+    //  print "Salut " . $first_name . "!, votre adresse e-mail est ". $email;
     }
     else {
       print $mysqli->error;
