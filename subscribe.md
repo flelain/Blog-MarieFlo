@@ -50,6 +50,7 @@ layout: page
         die('Error : ('. $mysqli->connect_errno .') '. $mysqli->connect_error);
       }
       {% endraw %}
+
       //préparer la requête d'insertion SQL
       $statement = $mysqli->prepare("INSERT INTO subscribers (first_name, last_name, email) VALUES(?, ?, ?)");
       //Associer les valeurs et exécuter la requête d'insertion
