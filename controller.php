@@ -34,8 +34,8 @@
 
     if($statement->execute()){
           echo "<p>Merci pour votre intérêt pour nos périgrinations nord-américaines ! :) </p>";
-          echo "<p><i>Thanks for your interest in our North-American adventures! :) </i></p>"
-        }
+          echo "<p><i>Thanks for your interest in our North-American adventures! :) </i></p>";
+    }
     else {
       print $mysqli->error;
     }
