@@ -32,15 +32,12 @@
     //Associer les valeurs et exécuter la requête d'insertion
     $statement->bind_param('sss', $first_name, $last_name, $email);
 
-    //if($statement->execute()){
-    //  print "Salut " . $first_name . "!, votre adresse e-mail est ". $email;
-    //}
-    //else {
-    //  print $mysqli->error;
-    ///}
-  //}
-  if(!$statement->execute()){
-  print $mysqli->error;
-  }
-}
+    if($statement->execute()){
+          echo "<p>Merci pour votre intérêt pour nos périgrinations nord-américaines ! :) </p>";
+          echo "<p><i>Thanks for your interest in our North-American adventures! :) </i></p>"
+        }
+    else {
+      print $mysqli->error;
+    }
+  }
 ?>
