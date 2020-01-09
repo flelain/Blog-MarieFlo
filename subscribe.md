@@ -18,7 +18,7 @@ title: Subscribe
 </form>
 
 <?php
-  require /controller.php;
+  include "controller.php";
 ?>
 
 ---
