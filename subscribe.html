@@ -20,6 +20,7 @@ layout: page
     <input type="submit" value="Submit">
   </form>
 
+{% raw %}
   <?php
     {% comment %}// Check script started by a form{% endcomment %}
     if ($_SERVER["REQUEST_METHOD"] == "POST") {
@@ -64,6 +65,7 @@ layout: page
     }
   ?>
 
+{% endraw %}
 
 ---
 <h2>About this site</h2>
