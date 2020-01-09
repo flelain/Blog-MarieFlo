@@ -21,9 +21,9 @@ layout: page
   </form>
 
   <?php
-    // Check script started by a form
+    {% comments %}// Check script started by a form{% endcomment %}
     if ($_SERVER["REQUEST_METHOD"] == "POST") {
-      //identifiants mysql
+      {% comments %}//identifiants mysql{% endcomment %}
       $host = "localhost";
       $username = "DB_ADMIN";
       $password = "DB_@DMIN_P@SS!";
