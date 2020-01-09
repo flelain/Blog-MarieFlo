@@ -9,9 +9,9 @@ title: Subscribe
 <br>
 
 <?php
-  echo "debug!";
-  include "/controller.php";
-  echo "redebug!";
+  echo 'debug!'';
+  include ''/controller.php';
+  echo 'redebug!'';
 ?>
 
 <form method="post" action="">
