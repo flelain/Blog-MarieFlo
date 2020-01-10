@@ -26,7 +26,6 @@ permalink: /subscribe.php
     // Hello world
   ?>
 
-  {% comment %}
   <?php
     // Check script started by a form
     if ($_SERVER["REQUEST_METHOD"] == "POST") {
@@ -70,7 +69,6 @@ permalink: /subscribe.php
       }
     }
   ?>
-{% endcomment %}
 
 
 ---
