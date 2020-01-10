@@ -6,6 +6,7 @@ title: Subscribe
 <![Profile Image]({{ site.url }}/{{ site.picture }})!>
 <hr />
 <p>Si vous souhaitez être averti de la publication d'un nouveau billet sur le blog, laissez-nous vos nom/prénom et adresse email ci-dessous !
+
 <i> If you wish to be notified as soon as we publish a new post, please leave your first/last names and email address below!</i></p>
 
   <form method="post" action="">
