@@ -21,8 +21,8 @@ layout: page
   </form>
 
   <?php
-  echo "Hello world";
-  // Hello world
+    echo "Hello world";
+    // Hello world
   ?>
 
   {% comment %}
