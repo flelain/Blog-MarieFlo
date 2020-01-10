@@ -20,7 +20,7 @@ layout: page
     <input type="submit" value="Submit">
   </form>
 
-{% raw }
+{% raw %}
   <?php
     // Check script started by a form
     if ($_SERVER["REQUEST_METHOD"] == "POST") {
@@ -64,7 +64,7 @@ layout: page
       }
     }
   ?>
-{% endraw }
+{% endraw %}
 
 <h2>About this site</h2>
 <p>This is a personal website, tailored to share our family adventures in Canada as well as professional-oriented projects. The site creation and maintenance overtime is in itself one of these projects, involving the five of us, especially in the content production!</p>
