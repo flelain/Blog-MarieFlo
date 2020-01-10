@@ -1,9 +1,9 @@
 ---
-title: subscribe
 layout: page
+title: subscribe
 ---
 
-![Profile Image]({{ site.url }}/{{ site.picture }})
+<![Profile Image]({{ site.url }}/{{ site.picture }})!>
 
 <br>
 <p>Si vous souhaitez être averti de la publication d'un nouveau billet sur le blog, laissez-nous vos nom/prénom et adresse email ci-dessous !</p>
