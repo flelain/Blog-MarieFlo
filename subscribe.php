@@ -1,7 +1,7 @@
 ---
 title: Subscribe
 layout: page
-permalink: /subscribe.php
+permalink: subscribe.php
 ---
 
 ![Profile Image]({{ site.url }}/{{ site.picture }})
@@ -20,11 +20,6 @@ permalink: /subscribe.php
     <br />
     <input type="submit" value="Submit">
   </form>
-
-  <?php
-    echo "Hello world";
-    // Hello world
-  ?>
 
   <?php
     // Check script started by a form
@@ -71,7 +66,6 @@ permalink: /subscribe.php
   ?>
 
 
----
 <h2>About this site</h2>
 <p>This is a personal website, tailored to share our family adventures in Canada as well as professional-oriented projects. The site creation and maintenance overtime is in itself one of these projects, involving the five of us, especially in the content production!</p>
 
