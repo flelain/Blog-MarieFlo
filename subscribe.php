@@ -1,7 +1,6 @@
 ---
 title: subscribe
 layout: page
-permalink: /:subscribe.html/
 ---
 
 ![Profile Image]({{ site.url }}/{{ site.picture }})
