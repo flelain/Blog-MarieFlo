@@ -55,6 +55,7 @@ github: flelain
 # vimeo: myvimeo
 # lanyrd: mylanyrd
 email: blog.jeglain@gmail.com
+subscribe: true
 
 authors:
     flelain:
@@ -90,7 +91,7 @@ width: normal
 projects: true
 
 # if you don't need "about" or "blog", comment them out below
-subscribe: true
+about: true
 blog: true
 
 # do you want to show the "read time" of the posts?
