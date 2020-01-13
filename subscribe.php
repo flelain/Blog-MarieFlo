@@ -3,7 +3,7 @@ layout: page
 title: Subscribe
 ---
 
-<img src="/assets/images/follow_icon.png" alt="Follow icon">
+<img src="/assets/images/follow_icon.png" alt="Follow icon" height="74" width="74">
 <hr />
 <p>Si vous souhaitez être averti de la publication d'un nouveau billet sur le blog, laissez-nous vos nom/prénom et adresse email ci-dessous !</p>
 <p><i> If you wish to be notified as soon as we publish a new post, please leave your first/last names and email address below!</i></p>
