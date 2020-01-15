@@ -1,3 +1,9 @@
+---
+layout: page
+title: Subscribe_result
+---
+<img src="/assets/images/follow_icon.png" alt="Follow icon">
+
 <?php
   // Check script started by a form
   if ($_SERVER["REQUEST_METHOD"] == "POST") {
