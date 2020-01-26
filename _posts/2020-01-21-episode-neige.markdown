@@ -33,7 +33,6 @@ Avant de partir, on a entendu des dizaines de fois "Vous partez au Canada ? Eh b
 
 ![Markdowm Image](/assets/images/posts/snow_street.jpg)
 <figcaption class="caption">notre rue le 15/01, à mi-chemin entre terrain de jeu et piste de ski</figcaption>
-<br>
 
 ---
 
