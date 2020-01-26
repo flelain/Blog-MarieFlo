@@ -28,7 +28,7 @@ Avant de partir, on a entendu des dizaines de fois "Vous partez au Canada ? Eh b
 <br>
 
 ![Markdowm Image](/assets/images/posts/snow_North.jpg)
-<figcaption class="caption">heureusement (pour les parents, l'école n'était pas fermée tous les jours ! :) </figcaption>
+<figcaption class="caption">heureusement (pour les parents), l'école n'était pas fermée tous les jours ! :) </figcaption>
 <br>
 
 ![Markdowm Image](/assets/images/posts/snow_street.jpg)
