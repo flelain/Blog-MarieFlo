@@ -2,8 +2,8 @@
 title: "De la neige à Vancouver?"
 layout: post
 date: 2020-01-21 22:30
-image: /assets/images/posts/tbd.jpg
-headerImage: false
+image: /assets/images/posts/snow_house.jpg
+headerImage: true
 tag:
 - neige
 - luge
