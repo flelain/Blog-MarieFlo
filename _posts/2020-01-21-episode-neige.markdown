@@ -5,6 +5,9 @@ date: 2020-01-21 22:30
 image: /assets/images/posts/tbd.jpg
 headerImage: false
 tag:
+- neige
+- luge
+- école
 star: false
 category: blog
 projects: false
