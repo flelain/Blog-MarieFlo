@@ -1,13 +1,13 @@
 ---
 title: "Le Nouvel An chinois a Vancouver"
 layout: post
-date: 2020-01-21 20:21
+date: 2020-02-03 20:21
 image: /assets/images/posts/parade_header.jpg
 headerImage: true
 tag:
-- Nouvel_An_chinois
+- Nouvel An chinois
 - Chinatown
-- Radio_Canada
+- Radio Canada
 star: false
 category: blog
 projects: false
@@ -32,14 +32,16 @@ On commence à s'habituer aux "premières" ici. Eh bien, en voici une nouvelle �
 
 Une fête pleine d'ambiance rassemblant des Vancouverites de toutes les communautés dans la parade comme dans la foule évidemment ! On est restés tous les 5, les yeux rivés sur le défilé jusqu'au dernier groupe  avant d'aller se balader dans le quartier chinois. C'est un lieu étonnant où cultures canadienne et chinoise se mêlent, avec bien évidemment énormément de commerces chinois, vendant des produits typiques (vêtements, nourriture, bien-être, ...). Vous vous douterez du type de restaurant pour lequel nous avons finalement opté après notre promenade :)
 
-Peut-être plus étonnant : les badauds francophones étaient plutôt rares en cette journée... Nous avons donc été rapidement repérés par une journaliste de Radio-Canada, réalisant un reportage sur le défilé pour le journal de français de cette chaîne et radio publique nationale. L'occasion pour nous de détecter du potentiel d'animateur-trice chez nos enfants qui se sont sentis plutôt à l'aise devant la caméra :)
+Peut-être plus étonnant : les badauds francophones étaient plutôt rares en cette journée... Nous avons donc été rapidement repérés par une journaliste de Radio-Canada, réalisant un reportage sur le défilé pour le journal de français de cette chaîne et radio publique nationale. L'occasion pour nous de détecter du potentiel d'animateur-trice chez nos enfants qui se sont sentis plutôt à l'aise devant la caméra :sunglasses:
 
 ![Markdowm Image](/assets/images/posts/parade_television.jpg)
 <figcaption class="caption">La parade à l'entrée de Chinatown</figcaption>
 <br>
 
+Et pour finir, tant que le reportage est accessible sur le site de Radio-Canada, vous devriew pouvoir le visionner ci-dessous :)
+
 <iframe width="560" height="310" src="https://ici.radio-canada.ca/tele/le-telejournal-colombie-britannique/site/segments/reportage/152579/chinatown-defile-annee-rat-ambiance-festive?isAutoPlay=1" frameborder="0" allowfullscreen preload="none"></iframe>
 
-Et vous, alors, vous êtes de quel signe ? :)
+Et vous, alors, vous êtes de quel signe ? :wink:
 
 Happy Lunar Year !
