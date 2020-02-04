@@ -42,6 +42,7 @@ Et pour finir, tant que le reportage est accessible sur le site de Radio-Canada,
 
 <iframe width="560" height="500" src="https://ici.radio-canada.ca/tele/le-telejournal-colombie-britannique/site/segments/reportage/152579/chinatown-defile-annee-rat-ambiance-festive?isAutoPlay=1" frameborder="0" allowfullscreen preload="none"></iframe>
 
+<br>
 Et vous, alors, vous êtes de quel signe ? :wink:
 
 Happy Lunar Year !
