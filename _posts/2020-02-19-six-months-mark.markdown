@@ -26,7 +26,7 @@ Notre Saint-Valentin a pris une saveur toute particulière cette année: c'est l
 Chacun de nous cinq voit bien sûr cette période à travers son propre prisme. Voici une tentative de résumé de la pensée de chacun d'entre nous, avec quelques photos à l'appui.
 
 ## Lucien
-### les vacances l'été dernier
+#### les vacances l'été dernier
 Ca commence à dater mais... Lucien garde en mémoire le souvenir de nos vacances en van fin août, sur l'île de Vancouver. Il se rappelle avoir *"visité plein d'endroits différents, dormi dans le van et dans la tente"*. Ou encore *"joué des heures durant à Koh-Lanta dans la forêt sur les troncs tombés, s'être baigné dans les lacs..."*. C'est marrant, nous on se rappelle aussi de trajets en van quelque peu... "animés"... Pas marquant pour tout le monde on dirait :unamused:
 
 ![Markdowm Image](/assets/images/posts/van_camping.jpg)
