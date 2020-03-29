@@ -31,6 +31,10 @@ La vie à la maison, prend évidemment une place prépondérante - là aussi je 
 <figcaption class="caption">dans la série "on s'occupe à la maison": l'école à la maison</figcaption>
 <br>
 
+![Markdowm Image](/assets/images/posts/Lucien_puzzle.jpg)
+<figcaption class="caption">dans la série "on s'occupe à la maison": Lucien travaille à son puzzle</figcaption>
+<br>
+
 ![Markdowm Image](/assets/images/posts/bingo.jpg)
 <figcaption class="caption">dans la série "on s'occupe à la maison": partie de bingo animée par Lucien</figcaption>
 <br>
