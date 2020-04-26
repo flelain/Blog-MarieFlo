@@ -17,7 +17,7 @@ description: le Coronavirus vu de Colombie-Britannique, Canada
 ---
 
 ### Un mois d'avril pas comme les autres
-Le mois d'avril 2020 est assurément différent du mois d'avril 2019. En fait, de tous les mois d'avril précédents en fait pour la plupart d'entre nous, non?.. A vrai dire, on est tout de même maintenant moins dans la découverte de cette situation autant déroutante qu'inédite. On commencerait même presque à s'y habituer et prendre un rythme. Mais bon, nos regards sont constamment tournés vers l'après, oubliant presque que le pendant ... pourrait durer :confused: Mais stop ! Pas de pessimisme ou d'anxiété inutiles dès l'introduction de ce billet. D'autant que, franchement, nous ne sommes quand même pas si mal lotis :smirk:
+Le mois d'avril 2020 est assurément différent du mois d'avril 2019. En fait, de tous les mois d'avril précédents pour la plupart d'entre nous, non?.. A vrai dire, on est tout de même maintenant moins dans la découverte de cette situation autant déroutante qu'inédite. On commencerait même presque à s'y habituer et prendre un rythme. Mais bon, nos regards sont constamment tournés vers l'après, oubliant presque que le pendant ... pourrait durer :confused: Mais stop ! Pas de pessimisme ou d'anxiété inutiles dès l'introduction de ce billet. D'autant que, franchement, nous ne sommes quand même pas si mal lotis :smirk:
 
 ### Une vie sur seulement quelques kilomètres carrés
 Nous avons des consignes et autres recommandations nous invitant à réduire au maximum nos déplacements ici. Mais pas de restrictions formelles ni d'attestation à remplir avec des contrôles policiers fréquents. Le mot d'ordre est avant tout de maintenir en toutes circonstances deux mètres de "distance sociale".
@@ -64,7 +64,7 @@ Et bien sûr, on trouve toujours un moment pour un peu de détente après le bou
 
 
 ![Markdowm Image](/assets/images/posts/100_years.jpg)
-<figcaption class="caption">100 ans à tous les 5, ça se fête :)</figcaption>
+<figcaption class="caption">Les 10 ans de Lucien nous font atteindre les 100 ans :)</figcaption>
 <br>
 
 "Stay safe" et à bientôt à tous !
