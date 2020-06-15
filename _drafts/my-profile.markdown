@@ -38,6 +38,8 @@ on my every day life as well as in my profesional one.
 
 I was also definitely looking for some new challenges and the urge
 
+2020-05-17-my-profile
+
 [Ok](https://ok.google.ca) , let's be straight from the start: it's been a while since I set up my last LAMP stack (Linux/Apache/Mysql/Php). I humbly admit that I had to brush up on my basics for the two latters. Still... one can find quite easily some pre-formatted php code to populate a simple mysql database through an HTML form! Because, fundamentally, I didn't need much more than this to offer a kind of subscription service on this blog. In fact, I spent most of my time coping with the integration of a php script -that is to say something a bit "dynamic"- within <a href="https://jekyllrb.com/">Jekyll</a>, a website generator, tailored for... static content. But, that was not the only issue I had to face... :)
 
 ## Jekyll and php scripts: what I learnt
