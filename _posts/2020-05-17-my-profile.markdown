@@ -7,7 +7,7 @@ headerImage: true
 tag:
 - tbd
 star: false
-category: project
+category: draft
 projects: true
 author: flelain
 description: my title, my profile, my skills
