@@ -20,7 +20,7 @@ Bonjour à tou.te.s !
 Wow, ça fait presque 5 mois que nous n'avons pas écrit sur le blog ! Il était grand temps de faire quelque chose ! :smirk: Bon, pour commencer, oui on est toujours là, à North Vancouver. On a juste changé de maison et de quartier depuis notre retour de vacances en France fin août. Et pour Halloween, notre nouveau voisinage ... je pèse mes mots ... déchire :star: En plein Covid, on voulait tout de même partager avec vous le haut niveau maintenu pour cette fête, dans le respect des règles sanitaires draconiennes mises en oeuvre :mask:
 
 ![Markdown Image](/assets/images/posts/pumpkin-workshop.jpg)
-<figcaption class="caption">Atelier citrouills</figcaption>
+<figcaption class="caption">Atelier citrouilles</figcaption>
 <br>
 
 ![Markdown Image](/assets/images/posts/pumpkin-art.jpg)
@@ -49,7 +49,6 @@ Wow, ça fait presque 5 mois que nous n'avons pas écrit sur le blog ! Il était
 
 On vous souhaite à tous une bonne fin d'année 2020 et vous dit à bientôt !
 
-<br>
 ![Markdown Image](/assets/images/posts/aerial-sunset-from-Grouse.jpg)
 <figcaption class="caption">Et parce qu'on ne se lasse pas de ces vues...</figcaption>
 <br>
