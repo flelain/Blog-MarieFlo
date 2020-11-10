@@ -6,7 +6,7 @@ image: /assets/images/posts/tbd.jpg
 headerImage: false
 tag:
 star: false
-category: blog-pvt
+category: blog
 projects: false
 author: jeglain
 description: Chers lecteurs,
