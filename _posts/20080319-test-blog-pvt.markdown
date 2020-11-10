@@ -1,5 +1,5 @@
 ---
-title: "Chers lecteurs,"
+title: "Chers lecteurs"
 layout: post
 date: 20080319
 image: /assets/images/posts/tbd.jpg
@@ -153,10 +153,10 @@ A bientôt !
 
 Marie-Laure.
 
-![Markdown Image](/assets/images/posts-pvt/10_sur_la_route)
+![Markdown Image](/assets/images/posts-pvt/10_sur_la_route.JPG)
 <figcaption class="caption">10 sur la route</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/11_Grillades_du_midi)
+![Markdown Image](/assets/images/posts-pvt/11_Grillades_du_midi.JPG)
 <figcaption class="caption">11 Grillades du midi</figcaption>
 <br>
 ![Markdown Image](/assets/images/posts-pvt/12_Le_lac_avec_notre_point_d'eau_pour_la_nuit)
