@@ -1,0 +1,50 @@
+---
+title: "Jour J"
+layout: post
+date: 2007-09-06
+image: /assets/images/posts/tbd.jpg
+headerImage: false
+tag:
+star: false
+category: blog-pvt
+projects: false
+author: jeglain
+description: Jour J
+---
+Après 15h de vol, nous voici enfin sur zone : à nous Vancouver ! Mais
+avant de vous raconter cette 1ère journée ici, voici un petit retour
+sur notre périple des jours derniers.
+
+Après ces bons moments passés auprès de nos familles et amis, nous
+partons pour Paris mardi après-midi, la larme à l'oeil (et JP, fais
+pas semblant, je l'ai vue chez toi aussi ;-)). Heureusement, pour nous
+remonter le moral, nous avons eu le droit à un accueil très chaleureux
+mardi soir par Kékile et nos amis parisiens... avant le grand départ
+mercredi 05 septembre. Le réveil n'a pas été si difficile qu'on
+aurait pu le croire : à 6h30 on était déjà debout, avant même que
+le réveil ne sonne ! [l'excitation sans doute]. Croulant sous le poids
+de nos bagages, nous arrivons tout de même à rejoindre l'aéroport
+CDG, où nous en profitons pour nous faire photographier avec notre
+compagnon de route... mais qui est-ce ?! Et bien après BBLane en Oz, je
+vous présente Wokie au Canada ! Euh Béa, on s'arrange plus tard pour
+les droits d'auteur sur l'idée originale d'amener une mascotte dans son
+périple, ok ?
+
+aris� 
+
+Nous arrivons donc à Vancouver les yeux un peu gonflés vers 19h30, où
+nous ne résistons pas à l�appel du taxi pour rejoindre notre auberge
+de jeunesse... où le sommeil a fini par nous rattraper à 22h30 heure
+locale, soit 7h30 en France...
+
+la 1ère journée au Canada, il faudra finalement que vous attendiez
+demain car là, la fatigue reprend le dessus... trop dur vraiment, de
+perdre le rythme du travail ;o) Allez, bon courage à vous tous, et
+soyez patients.
+
+![Markdown Image](/assets/images/posts-pvt/$img)
+<figcaption class="caption">$img_caption</figcaption>
+<br>
+![Markdown Image](/assets/images/posts-pvt/$img)
+<figcaption class="caption">$img_caption</figcaption>
+<br>

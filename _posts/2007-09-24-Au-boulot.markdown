@@ -1,0 +1,118 @@
+---
+title: "Au boulot !"
+layout: post
+date: 2007-09-24
+image: /assets/images/posts/tbd.jpg
+headerImage: false
+tag:
+star: false
+category: blog-pvt
+projects: false
+author: jeglain
+description: Au boulot !
+---
+Nous sommes revenus de ces quelques jours passés sur l’île de
+Vancouver avec nos p’tites têtes remplies de paysages incroyables,
+fin prêts à se livrer à la dure réalité : il faut bosser !
+
+Mission de vendredi : mettre au point nos « résumé » et commencer
+à regarder les jobs disponibles sur Craigslist, le site des bons plans
+en tout genre.
+
+Au final, ce ne sont pas des jobs que nous y avons trouvés, mais des
+casques pour nos vélos, car ici, c’est obligatoire. Et oui, nous
+avons désormais chacun notre vélo ! Nous sommes allés chercher le
+mien samedi matin dans un magasin de dépôt-vente. Nous voilà donc
+désormais équipés ! Et ici, les conditions de circulation sont
+nettement moins stressantes qu’à Paris : c’est à peine si les
+voitures ne s’arrêtent pas avant même que le piéton (ou le vélo)
+n’ait décidé de traverser ! C’est donc un plaisir de se balader
+dans Vancouver en vélo.
+
+Dimanche (on s’est dit que le dimanche n’était pas un bon jour pour
+rechercher un emploi ;-)), nous avons décidé de nous remettre un peu
+à la randonnée en allant à Grouse Mountain, qui est la station de ski
+la plus proche de Vancouver. Bon, pour le moment, il n’y a pas de
+neige, mais la station est tout de même bien vivante, notamment car un
+téléphérique permet d’y accéder.
+
+Nous, nous nous y sommes rendus à pied. Avant d’y aller, on voulait
+emmener avec nous d’autres personnes – toujours cette crainte de
+l’ours qui surgit de nulle part pour nous manger ;-) – mais nous
+avons finalement bien fait d’y aller quand-même que tous les deux,
+car sur place nous avons croisé une bonne centaine de personnes ayant
+eu la même idée que nous !... bien sûr, on les a tous doublés dans
+la montée… euh enfin presque ! ;o)
+
+Après 55 minutes d’effort (et ça grimpe fort quand-même !) puis un
+bon repas, nous avons pu découvrir une vue magnifique sur Vancouver,
+Vancouver Island (au loin) et même l’état de Washington aux
+Etats-Unis (ce n’est qu’à quelques dizaines de kms au sud de
+Vancouver). Florent s’est fait peur avec un ours en bois, avant de
+voir un vrai Grizzly, mais en captivité : ouf !
+
+La descente a presque été aussi longue que la montée, et ponctuée de
+jolies petites glissades (selon Florent, je ne prends pas de bons appuis
+sur mes pieds…). 
+
+En tout cas, aujourd’hui encore, mes cuisses se souviennent de ces 2h
+de randonnée dans la forêt de Grouse Mountain !
+
+Aujourd’hui lundi, nous avons diffusé nos CV un peu partout, et ça a
+été payant : j’ai remporté mon 1er entretien d’embauche en
+anglais aujourd’hui même à 14h… et figurez-vous que je commence
+dès demain matin 8h !
+
+Mon job consiste en la préparation de cafés, cappuccinos, et autres
+breuvages à la demande du client. Bon, c’est sûr, je ne vais pas
+mettre toutes mes compétences techniques en action dans ce travail,
+mais je vais enfin pouvoir parler anglais toute la journée ! Dans un
+1er temps, c’est ce qui compte. Dès que je me sens plus à l’aise
+en anglais, je chercherai un boulot plus adapté et mieux payé, car ce
+n’est pas avec 8,5$ / heure que je vais aller très loin.
+
+Et Florent dans tout ça ?!? Non, ne vous inquiétez pas, ce n’est
+pas dans ma philosophie de subvenir à ses besoins ;o)
+
+Lui aussi a décroché des entretiens : l’un demain matin 10h pour un
+job de coursier à vélo (travail très répandu dans le centre de
+Vancouver) et un autre demain après-midi pour travailler en
+call-center. Il vous en dira un peu plus dans les jours à venir.
+
+Nous voilà donc en route vers de nouvelles aventures ! Et pour fêter
+cela, nous nous sommes arrêtés dans un liquor store pour acheter notre
+première bouteille de vin rouge canadien ! On vous en dira des
+nouvelles !
+
+Et au fait, je profite de ce message pour envoyer plein de bisous à mon
+grand frère qui fête aujourd’hui ses 27 ans ! Et Florent et Wookie
+se joignent à moi : Joyeux anniversaire Oliv’ !
+
+A bientôt !
+
+Marie-Laure.
+
+![Markdown Image](/assets/images/posts-pvt/$img)
+<figcaption class="caption">$img_caption</figcaption>
+<br>
+![Markdown Image](/assets/images/posts-pvt/$img)
+<figcaption class="caption">$img_caption</figcaption>
+<br>
+![Markdown Image](/assets/images/posts-pvt/$img)
+<figcaption class="caption">$img_caption</figcaption>
+<br>
+![Markdown Image](/assets/images/posts-pvt/$img)
+<figcaption class="caption">$img_caption</figcaption>
+<br>
+![Markdown Image](/assets/images/posts-pvt/$img)
+<figcaption class="caption">$img_caption</figcaption>
+<br>
+![Markdown Image](/assets/images/posts-pvt/$img)
+<figcaption class="caption">$img_caption</figcaption>
+<br>
+![Markdown Image](/assets/images/posts-pvt/$img)
+<figcaption class="caption">$img_caption</figcaption>
+<br>
+![Markdown Image](/assets/images/posts-pvt/$img)
+<figcaption class="caption">$img_caption</figcaption>
+<br>

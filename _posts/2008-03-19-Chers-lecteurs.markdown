@@ -1,12 +1,12 @@
 ---
-title: "Chers lecteurs"
+title: "Chers lecteurs,"
 layout: post
-date: 20080319
+date: 2008-03-19
 image: /assets/images/posts/tbd.jpg
 headerImage: false
 tag:
 star: false
-category: blog
+category: blog-pvt
 projects: false
 author: jeglain
 description: Chers lecteurs,
@@ -153,48 +153,48 @@ A bientôt !
 
 Marie-Laure.
 
-![Markdown Image](/assets/images/posts-pvt/10_sur_la_route.JPG)
-<figcaption class="caption">10 sur la route</figcaption>
+![Markdown Image](/assets/images/posts-pvt/$img)
+<figcaption class="caption">$img_caption</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/11_Grillades_du_midi.JPG)
-<figcaption class="caption">11 Grillades du midi</figcaption>
+![Markdown Image](/assets/images/posts-pvt/$img)
+<figcaption class="caption">$img_caption</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/12_Le_lac_avec_notre_point_d'eau_pour_la_nuit)
-<figcaption class="caption">12 Le lac avec notre point d'eau pour la nuit</figcaption>
+![Markdown Image](/assets/images/posts-pvt/$img)
+<figcaption class="caption">$img_caption</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/13_Préparation_de_la_soupe_pour_nos_chiens)
-<figcaption class="caption">13 Préparation de la soupe pour nos chiens</figcaption>
+![Markdown Image](/assets/images/posts-pvt/$img)
+<figcaption class="caption">$img_caption</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/14_Florent_a_son_certificat_!)
-<figcaption class="caption">14 Florent a son certificat !</figcaption>
+![Markdown Image](/assets/images/posts-pvt/$img)
+<figcaption class="caption">$img_caption</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/15_Panda_et_Elounga_-_mon_duo_de_tête)
-<figcaption class="caption">15 Panda et Elounga - mon duo de tête</figcaption>
+![Markdown Image](/assets/images/posts-pvt/$img)
+<figcaption class="caption">$img_caption</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/16_Loukoum_le_préféré_de_Florent)
-<figcaption class="caption">16 Loukoum le préféré de Florent</figcaption>
+![Markdown Image](/assets/images/posts-pvt/$img)
+<figcaption class="caption">$img_caption</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/1_Montréal)
-<figcaption class="caption">1 Montréal</figcaption>
+![Markdown Image](/assets/images/posts-pvt/$img)
+<figcaption class="caption">$img_caption</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/2_Tire_sur_neige_chez_Constantin)
-<figcaption class="caption">2 Tire sur neige chez Constantin</figcaption>
+![Markdown Image](/assets/images/posts-pvt/$img)
+<figcaption class="caption">$img_caption</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/3_Tire_sur_neige)
-<figcaption class="caption">3 Tire sur neige</figcaption>
+![Markdown Image](/assets/images/posts-pvt/$img)
+<figcaption class="caption">$img_caption</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/4_Le_spa_avant_le_grand_froid)
-<figcaption class="caption">4 Le spa avant le grand froid</figcaption>
+![Markdown Image](/assets/images/posts-pvt/$img)
+<figcaption class="caption">$img_caption</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/5_les_chiens)
-<figcaption class="caption">5 les chiens</figcaption>
+![Markdown Image](/assets/images/posts-pvt/$img)
+<figcaption class="caption">$img_caption</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/6_L'équipe)
-<figcaption class="caption">6 L'équipe</figcaption>
+![Markdown Image](/assets/images/posts-pvt/$img)
+<figcaption class="caption">$img_caption</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/7_Mireille_aux_fourneaux)
-<figcaption class="caption">7 Mireille aux fourneaux</figcaption>
+![Markdown Image](/assets/images/posts-pvt/$img)
+<figcaption class="caption">$img_caption</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/9_Le_campement_pour_la_nuit-nourrir_les_chiens)
-<figcaption class="caption">9 Le campement pour la nuit-nourrir les chiens</figcaption>
+![Markdown Image](/assets/images/posts-pvt/$img)
+<figcaption class="caption">$img_caption</figcaption>
 <br>

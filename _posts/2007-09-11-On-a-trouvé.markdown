@@ -1,0 +1,117 @@
+---
+title: "On a trouvé !"
+layout: post
+date: 2007-09-11
+image: /assets/images/posts/tbd.jpg
+headerImage: false
+tag:
+star: false
+category: blog-pvt
+projects: false
+author: jeglain
+description: On a trouvé !
+---
+Oui oui, on a trouvé ce qui va être notre petit chez nous, notre futur
+nid, un appart quoi… enfin, quand je dis appartement, je devrais
+plutôt parler de chambre, car ce n’est pas non plus le grand luxe.
+
+Il s’agit de la dernière visite faite samedi (cf. message
+précédent) : après de longs moments d’hésitation, nous avons fini
+par accepter cette solution qui nous parait la meilleure, et pour un
+prix raisonnable (600$ par mois).
+
+On a bien visité un autre appart dimanche après-midi, très bien
+placé à 2 pas de la plage et à partager avec un couple de jeunes,
+mais à peine arrivés sur place, Johnny nous semble un peu trop à la
+« Give it away », genre « surfer winner », et sa copine nous
+prend un peu de haut… dur dur dans ces cas là de se dépatouiller en
+anglais !
+
+Dimanche soir, nous avons donc contacté Kathleen pour lui confirmer que
+c’était ok pour nous. Nous emménageons donc mercredi matin, avant
+8h ! J’ai jamais emménagé aussi tôt !
+
+Je pense que ça se passera bien chez Kathleen, car elle a l’air très
+sympa et puis on aura notre indépendance, tout en pouvant parler
+anglais avec elle dans les lieux communs. En plus, elle accepte qu’on
+la paie au mois : demain, on va donc payer jusqu’à fin septembre
+seulement : ça fait moins d’argent à sortir d’un coup !
+
+Voilà donc pour la grande nouvelle de ce début de semaine ! Du coup,
+on a décidé de fêter cela en prenant 2 petites semaines de vacances
+avant de commencer à chercher du boulot !
+
+Et on a commencé à en profiter dès hier, lundi, en allant découvrir
+les alentours de Vancouver : le Lynn Canyon Park.
+
+C’était un peu l’expédition pour y arriver en transport en
+commun : bus, sea bus (entendez bus bateau) pour traverser le Burrard
+Inlet (bras de mer en pleine ville) puis bus de nouveau… et ils sont
+loin d’être les champions du monde en matière de bus : on
+l’attend souvent très longtemps, il n’y a aucun plan de la ligne
+dans le bus : dur pour s’avoir quand s’arrêter !
+
+Mais une fois arrivés, nous ne regrettons pas notre heure de trajet :
+on est à 2 pas de la ville, et on se retrouve en pleine forêt, en
+pleine montagne : extra ! C’est sûr que c’est autre chose que la
+forêt de Meudon ;o) Ici, la forêt est très ancienne, très denses et
+les arbres y sont immenses… Je vous laisse admirer les photos : le
+pont suspendu au dessus du Canyon, la vue depuis le Lynn canyon sur la
+forêt, le Rise Lake où Florent fait des signes à un Tocktone qui
+pêche en face. On a même vu des saumons se ressourcer avant de filer
+vers la mer.
+
+Et les ours là-dedans, ils sont où me direz-vous ! Et bien selon
+Florent, pas d’ours dans les parages car nous sommes trop près de la
+ville. Je crois qu’il voulait me rassurer, mais bon quand on voit des
+paysages comme celui vu depuis le canyon, dans les films, il y a
+toujours un ours qui arrive pour pêcher les saumons… je peux vous
+assurer que je n’étais pas très tranquille pour manger : personne
+autour de nous, et de temps en temps, un oiseau qui fait bouger les
+fougères alentours… arghhhh !
+
+Mais bon, Florent continuait de me rassurer, jusqu’à ce qu’on voit
+la pancarte « CAUTION : bear in area », comprenez : attention, il
+y a des ours dans le coin !!! Heureusement, c’était la fin de la
+balade… mais bon, je crois qu’il faut qu’on relise notre manuel de
+survie pour savoir exactement comment réagir quand tu te retrouves face
+à un ours ;o)
+
+Mais ne vous inquiétez pas trop non plus (j’essaie de rassurer la
+famille) : les conflits ours/humain sont très rares ; on a plus de
+chance de se faire tuer par un chien que par un ours, comme dirait
+Florent !?!
+
+A bientôt pour de nouvelles aventures, et encore merci à tous pour vos
+commentaires et mini-messages sur ce blog, c’est vraiment sympa
+d’avoir de vos nouvelles !
+
+Marie-Laure.
+
+![Markdown Image](/assets/images/posts-pvt/$img)
+<figcaption class="caption">$img_caption</figcaption>
+<br>
+![Markdown Image](/assets/images/posts-pvt/$img)
+<figcaption class="caption">$img_caption</figcaption>
+<br>
+![Markdown Image](/assets/images/posts-pvt/$img)
+<figcaption class="caption">$img_caption</figcaption>
+<br>
+![Markdown Image](/assets/images/posts-pvt/$img)
+<figcaption class="caption">$img_caption</figcaption>
+<br>
+![Markdown Image](/assets/images/posts-pvt/$img)
+<figcaption class="caption">$img_caption</figcaption>
+<br>
+![Markdown Image](/assets/images/posts-pvt/$img)
+<figcaption class="caption">$img_caption</figcaption>
+<br>
+![Markdown Image](/assets/images/posts-pvt/$img)
+<figcaption class="caption">$img_caption</figcaption>
+<br>
+![Markdown Image](/assets/images/posts-pvt/$img)
+<figcaption class="caption">$img_caption</figcaption>
+<br>
+![Markdown Image](/assets/images/posts-pvt/$img)
+<figcaption class="caption">$img_caption</figcaption>
+<br>

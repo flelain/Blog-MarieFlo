@@ -1,0 +1,67 @@
+---
+title: "J-10"
+layout: post
+date: 2007-08-26
+image: /assets/images/posts/tbd.jpg
+headerImage: false
+tag:
+star: false
+category: blog-pvt
+projects: false
+author: jeglain
+description: J-10
+---
+Bonjour à tous,
+
+Eh bien, il s'en est déjà passé des choses depuis le premier post !
+Alors qu'on est même pas encore partis ! :) Tout d'abord, entre les
+cartons, il y a eu ... la soirée chez les Inuits. Oui, oui, en plein
+Montrouge, dans notre igloo, déclaré territoire canadien pour
+l'occasion. Cela a apparemment été du goût de tout le monde, sauf,
+peut-être des voisins. On en profite pour féliciter au passage notre
+JP national qui a gagné le grand jeu-concours du meilleur
+déguisement. On vous laisse admirer les photos retraçant
+l'événement.
+
+Et après la soirée, autre événement, autrement sympathique : le
+déménagement... Journée du samedi 18/08 quelque peu exténuante entre
+le chargement du camion, le nettoyage de l'igloo, enfin de l'appart,
+transport de toute notre maison à Rennes puis déchargement et
+rangement une fois arrivés. Ca y est, c'est réglé, plus qu'à se
+concentrer sur la dernière ligne droite : nos 2 semaines de vacances en
+Bretagne, agrémentées des quelques formalités administratives
+restantes. Nous retrouvant SDF pour 15 jours, heureusement, nos parents
+sont contents de nous accueillir avant de nous voir partir pendant un
+an à l'autre bout de la Webcam.
+
+A bientôt !
+
+Marie&Florent
+
+![Markdown Image](/assets/images/posts-pvt/$img)
+<figcaption class="caption">$img_caption</figcaption>
+<br>
+![Markdown Image](/assets/images/posts-pvt/$img)
+<figcaption class="caption">$img_caption</figcaption>
+<br>
+![Markdown Image](/assets/images/posts-pvt/$img)
+<figcaption class="caption">$img_caption</figcaption>
+<br>
+![Markdown Image](/assets/images/posts-pvt/$img)
+<figcaption class="caption">$img_caption</figcaption>
+<br>
+![Markdown Image](/assets/images/posts-pvt/$img)
+<figcaption class="caption">$img_caption</figcaption>
+<br>
+![Markdown Image](/assets/images/posts-pvt/$img)
+<figcaption class="caption">$img_caption</figcaption>
+<br>
+![Markdown Image](/assets/images/posts-pvt/$img)
+<figcaption class="caption">$img_caption</figcaption>
+<br>
+![Markdown Image](/assets/images/posts-pvt/$img)
+<figcaption class="caption">$img_caption</figcaption>
+<br>
+![Markdown Image](/assets/images/posts-pvt/$img)
+<figcaption class="caption">$img_caption</figcaption>
+<br>

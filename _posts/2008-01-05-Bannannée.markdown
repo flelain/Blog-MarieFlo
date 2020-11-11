@@ -1,0 +1,119 @@
+---
+title: "Bannannée !"
+layout: post
+date: 2008-01-05
+image: /assets/images/posts/tbd.jpg
+headerImage: false
+tag:
+star: false
+category: blog-pvt
+projects: false
+author: jeglain
+description: Bannannée !
+---
+Comme disait Bocco dans un de ses commentaires (dont nous ne nous
+lassons jamais d’ailleurs) : 2007 était l’année du départ et des
+au-revoir, 2008 est l’année du retour et des retrouvailles ! Youpi,
+car j’ai hâte de tous vous revoir ;o)
+
+Non, ne vous inquiétez pas, nous n’avons pas le temps de déprimer
+ici : nous profitons pleinement de notre séjour et ne voyons même pas
+les jours passer…
+
+Les 2 dernières semaines ont effectivement été bien remplies. Au
+travail, nous n’avions même plus une minute pour aller aux toilettes
+dans la journée… dur dur le travail de barista ! C’est sûr
+qu’avec 25 000 personnes sur l’ensemble du domaine skiable et de la
+neige qui n’arrête pas de tomber, ça fait du monde à venir se
+réchauffer autour d’un bon chocolat chaud (souvent amélioré
+d’ailleurs !). Et puis après le boulot, entre les multiples soirées
+Noël/Nouvel an, nous essayons de récupérer entre 2 quintes de toux.
+Bon, depuis 2 jours nous nous couchons un peu plus tôt et ça va mieux
+maintenant : Florent retrouve le goût des aliments et moi, ça fait 2
+jours que je ne me dope plus à l’ibuprofène ;o)
+
+Bon, c’est vrai qu’on n’était pas très en forme, mais nous avons
+tout de même su profiter du nouvel an et de nos 2 jours off.
+
+Le 31 au soir, nous avons organisé un petit apéro dinatoire – comme
+on pourrait dire dans le jargon parisien – avec 5 de nos collègues de
+Glacier Creek. Parmi Helen&Matt nos anglais, Ariane notre allemande,
+Leigh notre Canadienne d’Ontario et Klaus notre autrichien, tous ont
+apprécié les canapés au foie gras ainsi que les crêpes bretonnes
+agrémentées de Nutella ! Ensuite, nous sommes partis sur Whistler
+Village pour une soirée karaoké organisée par les résidences des
+employés… couchés à 3h du matin, levé à 6h pour une journée bien
+chargée au restaurant… je peux vous dire que notre lit nous a manqué
+toute la journée ;o)
+
+Mardi soir, Geneviève et Timothée, nos 2 français rencontrés sur
+Vancouver, sont arrivés à Whistler pour passer le « weekend » avec
+nous. Mercredi, nous sommes donc allés faire une petite balade en
+raquette, mais sans Timothée qui malheureusement était cloué au lit
+avec 39° de fièvre (sympa le 2ème jour de l’année 2008 !). Nous
+sommes retournés explorer les sentiers du Lost Lake, où nous étions
+déjà allés en octobre. Et bien figurez-vous que le Lost Lake est
+définitivement perdu ;o) Pas si facile de s’y reconnaître avec tant
+de neige ! Sans le panneau indiquant le lac, on croirait qu’il ne
+s’agit que d’un champ recouvert de neige !
+
+Jeudi, nous avons pratiqué le ski dans la poudreuse… et je dirai tout
+simplement que même si j’ai besoin d’anticiper mes virages avant de
+me lancer (c’est ça le problème d’être une fille : on ne peut
+pas déconnecter complètement le cerveau), moi au moins, je ne tombe
+pas sur du plat, dans la poudreuse, en déchaussant les 2 skis,
+n’est-ce pas Florent ;o) Ceci dit, il faudra aussi que je filme Flo
+un de ces 4 sur ces skis car il se débrouille plutôt pas mal pour
+quelqu’un qui a débranché son cerveau !
+
+Depuis, voici déjà 2 jours que nous avons repris le chemin du travail.
+Et même s’il faut se lever à 6h du matin pour aller se geler sur 2
+télésièges pendant 15min (et même plus quand il y a beaucoup de vent
+ou quand on ne sait pourquoi, ils arrêtent la remontée pendant 20
+minutes avec nous dessus…), nous prenons toujours autant de plaisir à
+aller au boulot avec des gens très sympas !
+
+Florent se joint à moi pour vous souhaiter une excellente année 2008,
+plein de bonheur et surtout une bonne santé : n’abusez pas trop mais
+profitez à fond (ça, c’est le conseil de Mamie Laure ;o)
+
+Bisous à vous tous !
+
+Marie-Laure
+
+![Markdown Image](/assets/images/posts-pvt/$img)
+<figcaption class="caption">$img_caption</figcaption>
+<br>
+![Markdown Image](/assets/images/posts-pvt/$img)
+<figcaption class="caption">$img_caption</figcaption>
+<br>
+![Markdown Image](/assets/images/posts-pvt/$img)
+<figcaption class="caption">$img_caption</figcaption>
+<br>
+![Markdown Image](/assets/images/posts-pvt/$img)
+<figcaption class="caption">$img_caption</figcaption>
+<br>
+![Markdown Image](/assets/images/posts-pvt/$img)
+<figcaption class="caption">$img_caption</figcaption>
+<br>
+![Markdown Image](/assets/images/posts-pvt/$img)
+<figcaption class="caption">$img_caption</figcaption>
+<br>
+![Markdown Image](/assets/images/posts-pvt/$img)
+<figcaption class="caption">$img_caption</figcaption>
+<br>
+![Markdown Image](/assets/images/posts-pvt/$img)
+<figcaption class="caption">$img_caption</figcaption>
+<br>
+![Markdown Image](/assets/images/posts-pvt/$img)
+<figcaption class="caption">$img_caption</figcaption>
+<br>
+![Markdown Image](/assets/images/posts-pvt/$img)
+<figcaption class="caption">$img_caption</figcaption>
+<br>
+![Markdown Image](/assets/images/posts-pvt/$mov)
+<figcaption class="caption">$mov_caption</figcaption>
+<br>
+![Markdown Image](/assets/images/posts-pvt/$mov)
+<figcaption class="caption">$mov_caption</figcaption>
+<br>

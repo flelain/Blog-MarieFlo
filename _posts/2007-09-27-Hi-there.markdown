@@ -1,0 +1,78 @@
+---
+title: "Hi there !"
+layout: post
+date: 2007-09-27
+image: /assets/images/posts/tbd.jpg
+headerImage: false
+tag:
+star: false
+category: blog-pvt
+projects: false
+author: jeglain
+description: Hi there !
+---
+Eh bien, pour une fois, je ne me demande pas par où commencer du fait
+des nombreuses choses visitées depuis le dernier message… C’est
+bien simple : fini la découverte du Canada jour après jour ! On a la
+tête dans le guidon niveau job !!
+
+964€/mois, sachant que le coût de la vie ici est à peu près
+équivalent à celui de la France). En tout cas, pour me permettre un
+commentaire « extérieur », elle est très très jolie dans son
+petit ensemble T-Shirt/Tablier/Casquette Urban Fare (c’est le nom du
+restau) et elle assure pas mal du tout dans son rôle ! (
+
+Eh bien, ensuite, de mon côté, ça y est, j’ai donc commencé le job
+de Bike Courier, comprenez coursier à vélo. C’est quelque chose
+qu’on ne voit pas en France (à ma connaissance) mais qui ici, au
+contraire, marche du tonnerre. C’est certainement la configuration des
+lieux qui veut ça. Je m’explique : imaginez le quartier d’affaires
+de la Défense au coeur de Paris : en plus des bureaux, on garde toute
+la vie de Paris que l’on a en plein centre : restaurants, boutiques,
+quartiers touristiques… Vous avez le centre-ville (Downtown) de
+Vancouver. Evidemment, tout comme le centre de Paris, grosse
+circulation, beaucoup d’axes à sens unique, beaucoup de travaux,…
+Rien de plus rapide donc que le vélo pour des livraisons de
+centre-ville à centre-ville. D’un building au building de la rue
+d’à côté finalement assez souvent. Enfin, pas toujours : parfois,
+certains retraits/livraisons de marchandises se font hors centre-ville.
+Et là il ne faut pas avoir peur des km et des dénivelés !
+
+J’ai donc commencé par une petite formation mercredi matin, pour
+comprendre un peu le boulot et me familiariser avec le
+téléphone/talkie-walkie sur lequel on reçoit les ordres de
+retrait/livraison. Avant midi, j’ai rejoint un coursier dans les rues
+du centre-ville pour qu’il me montre concrètement de quoi il
+retournait sur le terrain. Peu après 13h, il me lâche dans la nature
+pour mes 1ères livraisons… Chaud chaud chaud ! Le gars que j’ai
+suivi, lui, avait la carte en tête ! Moi beaucoup moins ! Et
+connaître le nom des rues et savoir les positionner est une chose,
+déjà pas forcément simple au départ ; mais ensuite, il faut savoir
+comment les numéros sont répartis ! Et ici, il n’y a que des rues
+Vaugirard : elles sont toutes hyper longues. Et avec beaucoup de pentes
+en prime ! Bon, ok, il faut quand même dire aussi que les rues sont
+bien plus carrées dans cette ville qui a à peine 1 siècle, comparée
+à nos bonnes vieilles françaises aux rues complètement tordues…
+
+Aujourd’hui jeudi, j’ai fait ma première journée entière sur le
+vélo. Départ à 7h30 de la maison pour rejoindre le dépôt. Arrivée
+à la maison à 18h30 (petite pause de 30 min au bar de Marie incluse).
+Dans tout ça, du coup, j’ai déjà dû voir plus dizaines de têtes
+de réceptionnistes différents dans autant d’endroits… Au bout
+d’un moment, on comprend plus grand-chose…
+
+Une bonne petite soirée à la maison devrait requinquer tout le
+monde (.
+
+A bientôt !
+
+Florent
+
+Ps : les photos seront pour le prochain épisode (
+
+![Markdown Image](/assets/images/posts-pvt/$img)
+<figcaption class="caption">$img_caption</figcaption>
+<br>
+![Markdown Image](/assets/images/posts-pvt/$img)
+<figcaption class="caption">$img_caption</figcaption>
+<br>
