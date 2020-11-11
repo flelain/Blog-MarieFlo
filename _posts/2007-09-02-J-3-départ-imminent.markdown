@@ -9,7 +9,7 @@ star: false
 category: blog-pvt
 projects: false
 author: jeglain
-description: J-3 : départ imminent !
+description: J-3 départ imminent !
 ---
 Bonjour à tous,
 

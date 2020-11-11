@@ -9,7 +9,7 @@ star: false
 category: blog-pvt
 projects: false
 author: jeglain
-description: Coursier à vélo : mon bilan
+description: Coursier à vélo mon bilan
 ---
 Bonjour à tous,
 

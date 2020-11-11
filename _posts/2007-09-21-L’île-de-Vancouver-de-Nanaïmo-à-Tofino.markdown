@@ -9,7 +9,7 @@ star: false
 category: blog-pvt
 projects: false
 author: jeglain
-description: L’île de Vancouver : de Nanaïmo à Tofino
+description: L’île de Vancouver de Nanaïmo à Tofino
 ---
 A l’heure où l’on vous écrit, c’est la fin des vacances… Eh
 oui, comme Marie vous l’a dit en fin de semaine dernière, on commence
