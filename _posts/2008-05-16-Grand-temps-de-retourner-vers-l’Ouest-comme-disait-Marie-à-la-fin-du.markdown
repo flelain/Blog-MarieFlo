@@ -7,7 +7,7 @@ headerImage: false
 tag:
 star: false
 category: blog-pvt
-projects: false
+blog-pvt: true
 author: jeglain
 description: Grand temps de retourner vers l’Ouest comme disait Marie à la fin du
 ---

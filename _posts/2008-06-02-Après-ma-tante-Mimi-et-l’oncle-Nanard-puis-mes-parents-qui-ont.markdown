@@ -7,7 +7,7 @@ headerImage: false
 tag:
 star: false
 category: blog-pvt
-projects: false
+blog-pvt: true
 author: jeglain
 description: Après ma tante Mimi et l’oncle Nanard, puis mes parents qui ont
 ---

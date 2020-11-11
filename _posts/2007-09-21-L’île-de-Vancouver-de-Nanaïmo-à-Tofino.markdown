@@ -7,7 +7,7 @@ headerImage: false
 tag:
 star: false
 category: blog-pvt
-projects: false
+blog-pvt: true
 author: jeglain
 description: L’île de Vancouver de Nanaïmo à Tofino
 ---

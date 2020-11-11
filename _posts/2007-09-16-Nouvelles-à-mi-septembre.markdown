@@ -7,7 +7,7 @@ headerImage: false
 tag:
 star: false
 category: blog-pvt
-projects: false
+blog-pvt: true
 author: jeglain
 description: Nouvelles à mi-septembre
 ---

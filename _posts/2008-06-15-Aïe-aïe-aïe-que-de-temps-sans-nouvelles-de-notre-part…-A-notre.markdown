@@ -7,7 +7,7 @@ headerImage: false
 tag:
 star: false
 category: blog-pvt
-projects: false
+blog-pvt: true
 author: jeglain
 description: Aïe aïe aïe, que de temps sans nouvelles de notre part… A notre
 ---
