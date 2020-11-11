@@ -7,7 +7,7 @@ headerImage: false
 tag:
 star: false
 category: blog-pvt
-projects: true
+blog-pvt: true
 author: jeglain
 description: Création du blog réussie !
 ---
