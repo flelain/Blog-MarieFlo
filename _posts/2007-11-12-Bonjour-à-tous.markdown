@@ -143,15 +143,15 @@ A bientôt à tous !
 
 Florent
 
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/DSCN5304.JPG)
+<figcaption class="caption">DSCN5304</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/DSCN5305.JPG)
+<figcaption class="caption">DSCN5305</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/DSCN5307.JPG)
+<figcaption class="caption">DSCN5307</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/DSCN5308.JPG)
+<figcaption class="caption">DSCN5308</figcaption>
 <br>

@@ -222,51 +222,51 @@ A bientôt !
 
 Florent
 
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/K'san_village,_après_le_spectacle.JPG)
+<figcaption class="caption">K'san village, après le spectacle</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/La_bataille_avec_la_bûche.JPG)
+<figcaption class="caption">La bataille avec la bûche</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Prince_Rupert_1_Visite_de_la_conserverie_historique.JPG)
+<figcaption class="caption">Prince Rupert 1 Visite de la conserverie historique</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Prince_Rupert_2_Avant-dernière_nuit_en_camping-car.JPG)
+<figcaption class="caption">Prince Rupert 2 Avant-dernière nuit en camping-car</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Prince_Rupert_3_En_route_pour_une_bière_et_WiFi.JPG)
+<figcaption class="caption">Prince Rupert 3 En route pour une bière et WiFi</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Prince_Rupert_4_Port_de_Plaisance.JPG)
+<figcaption class="caption">Prince Rupert 4 Port de Plaisance</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Prince_Rupert_5_Retour_de_pêche.JPG)
+<figcaption class="caption">Prince Rupert 5 Retour de pêche</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Queen_Charlotte_1_un_Inuksuk_fait_maison.JPG)
+<figcaption class="caption">Queen Charlotte 1 un Inuksuk fait maison</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Queen_Charlotte_2_Totem_au_musée_indien.JPG)
+<figcaption class="caption">Queen Charlotte 2 Totem au musée indien</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Queen_Charlotte_3_Attention_aux_ours.JPG)
+<figcaption class="caption">Queen Charlotte 3 Attention aux ours</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Queen_Charlotte_4_Aigle_à_tête_blanche.JPG)
+<figcaption class="caption">Queen Charlotte 4 Aigle à tête blanche</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Queen_Charlotte_5_Journée_en_kayak_parmi_les_îles.JPG)
+<figcaption class="caption">Queen Charlotte 5 Journée en kayak parmi les îles</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Queen_Charlotte_6_Le_beau_temps_s'installe.JPG)
+<figcaption class="caption">Queen Charlotte 6 Le beau temps s'installe</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Queen_Charlotte_7_Notre_emplacement_de_camping.JPG)
+<figcaption class="caption">Queen Charlotte 7 Notre emplacement de camping</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Queen_Charlotte_8_Dernière_soirée_sur_les_îles.JPG)
+<figcaption class="caption">Queen Charlotte 8 Dernière soirée sur les îles</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$mov)
-<figcaption class="caption">$mov_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/DSCN8831.MOV)
+<figcaption class="caption">DSCN8831</figcaption>
 <br>

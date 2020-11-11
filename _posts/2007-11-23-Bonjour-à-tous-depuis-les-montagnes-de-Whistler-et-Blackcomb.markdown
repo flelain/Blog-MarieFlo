@@ -101,33 +101,33 @@ boulot… ;o)
 
 Marie-Laure.
 
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/DSCN5327.JPG)
+<figcaption class="caption">DSCN5327</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/DSCN5346_bis.JPG)
+<figcaption class="caption">DSCN5346 bis</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/DSCN5347.JPG)
+<figcaption class="caption">DSCN5347</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/DSCN5352.JPG)
+<figcaption class="caption">DSCN5352</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/DSCN5356.JPG)
+<figcaption class="caption">DSCN5356</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/DSCN5359.JPG)
+<figcaption class="caption">DSCN5359</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/DSCN5366.JPG)
+<figcaption class="caption">DSCN5366</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/DSCN5385.JPG)
+<figcaption class="caption">DSCN5385</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/DSCN5386.JPG)
+<figcaption class="caption">DSCN5386</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/DSCN5391.JPG)
+<figcaption class="caption">DSCN5391</figcaption>
 <br>

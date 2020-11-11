@@ -51,12 +51,12 @@ A bientôt !
 
 Marie&Florent
 
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Maëlys_et_son_Pa'ain.JPG)
+<figcaption class="caption">Maëlys et son Pa'ain</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Pa'ain_Pa'aine_et_Maëlys.JPG)
+<figcaption class="caption">Pa'ain Pa'aine et Maëlys</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Repas_Jeglain.JPG)
+<figcaption class="caption">Repas Jeglain</figcaption>
 <br>

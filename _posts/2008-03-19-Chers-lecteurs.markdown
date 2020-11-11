@@ -153,48 +153,48 @@ A bientôt !
 
 Marie-Laure.
 
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/10_sur_la_route.JPG)
+<figcaption class="caption">10 sur la route</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/11_Grillades_du_midi.JPG)
+<figcaption class="caption">11 Grillades du midi</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/12_Le_lac_avec_notre_point_d'eau_pour_la_nuit.JPG)
+<figcaption class="caption">12 Le lac avec notre point d'eau pour la nuit</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/13_Préparation_de_la_soupe_pour_nos_chiens.JPG)
+<figcaption class="caption">13 Préparation de la soupe pour nos chiens</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/14_Florent_a_son_certificat_!.JPG)
+<figcaption class="caption">14 Florent a son certificat !</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/15_Panda_et_Elounga_-_mon_duo_de_tête.JPG)
+<figcaption class="caption">15 Panda et Elounga - mon duo de tête</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/16_Loukoum_le_préféré_de_Florent.JPG)
+<figcaption class="caption">16 Loukoum le préféré de Florent</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/1_Montréal.JPG)
+<figcaption class="caption">1 Montréal</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/2_Tire_sur_neige_chez_Constantin.JPG)
+<figcaption class="caption">2 Tire sur neige chez Constantin</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/3_Tire_sur_neige.JPG)
+<figcaption class="caption">3 Tire sur neige</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/4_Le_spa_avant_le_grand_froid.JPG)
+<figcaption class="caption">4 Le spa avant le grand froid</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/5_les_chiens.JPG)
+<figcaption class="caption">5 les chiens</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/6_L'équipe.JPG)
+<figcaption class="caption">6 L'équipe</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/7_Mireille_aux_fourneaux.JPG)
+<figcaption class="caption">7 Mireille aux fourneaux</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/9_Le_campement_pour_la_nuit-nourrir_les_chiens.JPG)
+<figcaption class="caption">9 Le campement pour la nuit-nourrir les chiens</figcaption>
 <br>

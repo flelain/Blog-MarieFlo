@@ -81,39 +81,39 @@ Bisous à vous tous !
 
 Marie-Laure
 
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/DSCN5610.JPG)
+<figcaption class="caption">DSCN5610</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/DSCN5631.JPG)
+<figcaption class="caption">DSCN5631</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/DSCN5658.JPG)
+<figcaption class="caption">DSCN5658</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/DSCN5667.JPG)
+<figcaption class="caption">DSCN5667</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/DSCN5677.JPG)
+<figcaption class="caption">DSCN5677</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/DSCN5690.JPG)
+<figcaption class="caption">DSCN5690</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/DSCN5697.JPG)
+<figcaption class="caption">DSCN5697</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/DSCN5703.JPG)
+<figcaption class="caption">DSCN5703</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/IMG_1779.JPG)
+<figcaption class="caption">IMG 1779</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/IMG_1818.JPG)
+<figcaption class="caption">IMG 1818</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$mov)
-<figcaption class="caption">$mov_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/DSCN5573.MOV)
+<figcaption class="caption">DSCN5573</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$mov)
-<figcaption class="caption">$mov_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/DSCN5682.MOV)
+<figcaption class="caption">DSCN5682</figcaption>
 <br>

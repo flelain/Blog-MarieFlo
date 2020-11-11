@@ -38,30 +38,30 @@ A bientôt !
 
 Marie&Florent
 
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/CedChrisThomas.JPG)
+<figcaption class="caption">CedChrisThomas</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Dd_de_Boulogne.JPG)
+<figcaption class="caption">Dd de Boulogne</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Décor_igloo.JPG)
+<figcaption class="caption">Décor igloo</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/JPetto_le_gagnant.JPG)
+<figcaption class="caption">JPetto le gagnant</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Le_kdo.JPG)
+<figcaption class="caption">Le kdo</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Les_Jeg.JPG)
+<figcaption class="caption">Les Jeg</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Notre_igloo.JPG)
+<figcaption class="caption">Notre igloo</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/RicouNinie_et_Bocco.JPG)
+<figcaption class="caption">RicouNinie et Bocco</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Seb_et_Marc.JPG)
+<figcaption class="caption">Seb et Marc</figcaption>
 <br>

@@ -105,48 +105,48 @@ A bientôt !
 
 Florent
 
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Juste_pour_faire_concurrence_à_JM_!.JPG)
+<figcaption class="caption">Juste pour faire concurrence à JM !</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Montréal_avec_Ariane.JPG)
+<figcaption class="caption">Montréal avec Ariane</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/NYC_1_Time_Square.JPG)
+<figcaption class="caption">NYC 1 Time Square</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/NYC_2_Vive_la_liberté_!.JPG)
+<figcaption class="caption">NYC 2 Vive la liberté !</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/NYC_3_Vue_depuis__l'Empire_State_Building.JPG)
+<figcaption class="caption">NYC 3 Vue depuis  l'Empire State Building</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/NYC_4_Skyline_depuis_Brooklyn.JPG)
+<figcaption class="caption">NYC 4 Skyline depuis Brooklyn</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/NYC_5_Time_square_by_night.JPG)
+<figcaption class="caption">NYC 5 Time square by night</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/NYC_6_Central_Park.JPG)
+<figcaption class="caption">NYC 6 Central Park</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/NYC_7_Après_le_spectacle.JPG)
+<figcaption class="caption">NYC 7 Après le spectacle</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Niagara_Falls.JPG)
+<figcaption class="caption">Niagara Falls</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Notre_fidèle_destrier.JPG)
+<figcaption class="caption">Notre fidèle destrier</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Toronto_1_Centre-ville.JPG)
+<figcaption class="caption">Toronto 1 Centre-ville</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Toronto_2_Y'en_a_qu'ont_confiance_en_la_gravité_!.JPG)
+<figcaption class="caption">Toronto 2 Y'en a qu'ont confiance en la gravité !</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Vancouver_Jericho_Beach.JPG)
+<figcaption class="caption">Vancouver Jericho Beach</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$mov)
-<figcaption class="caption">$mov_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/DSCN7606.MOV)
+<figcaption class="caption">DSCN7606</figcaption>
 <br>

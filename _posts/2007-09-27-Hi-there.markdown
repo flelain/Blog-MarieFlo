@@ -70,9 +70,9 @@ Florent
 
 Ps : les photos seront pour le prochain épisode (
 
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/DSCN5078.JPG)
+<figcaption class="caption">DSCN5078</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/DSCN5082.JPG)
+<figcaption class="caption">DSCN5082</figcaption>
 <br>

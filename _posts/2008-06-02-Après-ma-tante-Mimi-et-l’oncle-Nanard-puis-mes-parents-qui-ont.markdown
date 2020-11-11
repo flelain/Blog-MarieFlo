@@ -124,54 +124,54 @@ See you guys !
 
 Marilette
 
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/En_route_vers_Bamfield_La_maison_flottante.JPG)
+<figcaption class="caption">En route vers Bamfield La maison flottante</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Ile_de_Vancouver_Port_Alberni.JPG)
+<figcaption class="caption">Ile de Vancouver Port Alberni</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Ile_de_Vancouver_Sproat_Lake.JPG)
+<figcaption class="caption">Ile de Vancouver Sproat Lake</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Imaginez_la_taille_de_larbre.JPG)
+<figcaption class="caption">Imaginez la taille de larbre</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Jamais_sans_son_Ricard.JPG)
+<figcaption class="caption">Jamais sans son Ricard</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/L'ours.JPG)
+<figcaption class="caption">L'ours</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Les_bretons_voyageurs.JPG)
+<figcaption class="caption">Les bretons voyageurs</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Les_rapides_de_Sechelt_Skookumchuck_Narrows.JPG)
+<figcaption class="caption">Les rapides de Sechelt Skookumchuck Narrows</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Notre_campement_en_parc_provincial.JPG)
+<figcaption class="caption">Notre campement en parc provincial</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Notre_feu.JPG)
+<figcaption class="caption">Notre feu</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Robinson_Crusoë.JPG)
+<figcaption class="caption">Robinson Crusoë</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Sunshine_Coast.JPG)
+<figcaption class="caption">Sunshine Coast</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Sur_le_Lady_Rose_De_retour_de_Bamfield.JPG)
+<figcaption class="caption">Sur le Lady Rose De retour de Bamfield</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Traversée_en_ferry.JPG)
+<figcaption class="caption">Traversée en ferry</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Visite_des_baleines.JPG)
+<figcaption class="caption">Visite des baleines</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Yummy.JPG)
+<figcaption class="caption">Yummy</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$mov)
-<figcaption class="caption">$mov_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/L'homme_qui_tombe_à_pic.MOV)
+<figcaption class="caption">L'homme qui tombe à pic</figcaption>
 <br>

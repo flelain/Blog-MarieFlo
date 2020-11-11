@@ -123,51 +123,51 @@ A bientôt !
 
 Marie-Laure.
 
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Animaux_sauvages_sur_la_route_à_Kananaski.JPG)
+<figcaption class="caption">Animaux sauvages sur la route à Kananaski</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Athabasca_Glacier.JPG)
+<figcaption class="caption">Athabasca Glacier</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Calgary_Heritage_Parc.JPG)
+<figcaption class="caption">Calgary Heritage Parc</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Calgary_le_tremplin_des_JO.JPG)
+<figcaption class="caption">Calgary le tremplin des JO</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Glacier_Athabasca.JPG)
+<figcaption class="caption">Glacier Athabasca</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Kananaski_Notre_campement.JPG)
+<figcaption class="caption">Kananaski Notre campement</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Kananaski_Rawson_Lake.JPG)
+<figcaption class="caption">Kananaski Rawson Lake</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Kananaski_Upper_Lake.JPG)
+<figcaption class="caption">Kananaski Upper Lake</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Kananaski_Upper_Lake_l'heure_du_repas.JPG)
+<figcaption class="caption">Kananaski Upper Lake l'heure du repas</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Kananaski_Upper_Lake_à_2_pas_du_camping.JPG)
+<figcaption class="caption">Kananaski Upper Lake à 2 pas du camping</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Kananaski_Upper_et_Lower_Lakes.JPG)
+<figcaption class="caption">Kananaski Upper et Lower Lakes</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Kananaski_l'heure_de_la_vaisselle.JPG)
+<figcaption class="caption">Kananaski l'heure de la vaisselle</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Lac_louise.JPG)
+<figcaption class="caption">Lac louise</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Moraine_Lake.JPG)
+<figcaption class="caption">Moraine Lake</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Moufflon_à_Kananaski.JPG)
+<figcaption class="caption">Moufflon à Kananaski</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Un_orignal.JPG)
+<figcaption class="caption">Un orignal</figcaption>
 <br>

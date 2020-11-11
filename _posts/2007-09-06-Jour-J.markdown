@@ -42,9 +42,9 @@ demain car là, la fatigue reprend le dessus... trop dur vraiment, de
 perdre le rythme du travail ;o) Allez, bon courage à vous tous, et
 soyez patients.
 
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/En_route_!.JPG)
+<figcaption class="caption">En route !</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Wokie_juché_sur_nos_80kg_de_bagages.JPG)
+<figcaption class="caption">Wokie juché sur nos 80kg de bagages</figcaption>
 <br>

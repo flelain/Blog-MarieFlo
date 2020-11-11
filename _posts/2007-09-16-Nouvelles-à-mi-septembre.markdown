@@ -69,36 +69,36 @@ Gros bisous à vous tous !
 
 Marie-Laure.
 
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/DSCN4718.JPG)
+<figcaption class="caption">DSCN4718</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/DSCN4720.JPG)
+<figcaption class="caption">DSCN4720</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/DSCN4734.JPG)
+<figcaption class="caption">DSCN4734</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/DSCN4742.JPG)
+<figcaption class="caption">DSCN4742</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/DSCN4745.JPG)
+<figcaption class="caption">DSCN4745</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/DSCN4750.JPG)
+<figcaption class="caption">DSCN4750</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/DSCN4762.JPG)
+<figcaption class="caption">DSCN4762</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/DSCN4765.JPG)
+<figcaption class="caption">DSCN4765</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/DSCN4768.JPG)
+<figcaption class="caption">DSCN4768</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Pvtistes.JPG)
+<figcaption class="caption">Pvtistes</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$mov)
-<figcaption class="caption">$mov_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/DSCN4730.MOV)
+<figcaption class="caption">DSCN4730</figcaption>
 <br>

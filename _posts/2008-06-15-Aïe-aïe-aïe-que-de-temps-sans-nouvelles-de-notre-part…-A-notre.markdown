@@ -81,48 +81,48 @@ presque envie de cultiver nous-mêmes à notre retour.
 Et maintenant, direction Calgary, pour aller pêcher notre 4ème
 visiteuse…
 
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Attention_OURS_!.JPG)
+<figcaption class="caption">Attention OURS !</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Balade_à_Osoyos.JPG)
+<figcaption class="caption">Balade à Osoyos</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Ce_qu'il_reste_à_planter....JPG.)
+<figcaption class="caption">Ce qu'il reste à planter....JPG</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Chacun_son_tracteur.JPG)
+<figcaption class="caption">Chacun son tracteur</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Courges_et_poulailler.JPG)
+<figcaption class="caption">Courges et poulailler</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Dans_notre_cabin.JPG)
+<figcaption class="caption">Dans notre cabin</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/La_cabane_au_fond_du_jardin.JPG)
+<figcaption class="caption">La cabane au fond du jardin</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/La_maison_de_la_ferme.JPG)
+<figcaption class="caption">La maison de la ferme</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Les_concombres_dans_la_serre.JPG)
+<figcaption class="caption">Les concombres dans la serre</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Nos_collègues_au_boulot_!.JPG)
+<figcaption class="caption">Nos collègues au boulot !</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Plantage_de_courges.JPG)
+<figcaption class="caption">Plantage de courges</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Ramassage_des_cailloux.JPG)
+<figcaption class="caption">Ramassage des cailloux</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Résultat_du_ramassage_de_cailloux.JPG)
+<figcaption class="caption">Résultat du ramassage de cailloux</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Vue_sur_Osoyos.JPG)
+<figcaption class="caption">Vue sur Osoyos</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Vue_sur_la_ferme.JPG)
+<figcaption class="caption">Vue sur la ferme</figcaption>
 <br>

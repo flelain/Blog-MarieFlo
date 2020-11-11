@@ -80,24 +80,24 @@ demain. Affaire à suivre !
 
 A bientôt !
 
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Blason_de_Vancouver.JPG)
+<figcaption class="caption">Blason de Vancouver</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/De_retour_des_courses.JPG)
+<figcaption class="caption">De retour des courses</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Des_oeufs_blancs_!.JPG)
+<figcaption class="caption">Des oeufs blancs !</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Floflo_prend_la_pause.JPG)
+<figcaption class="caption">Floflo prend la pause</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Le_port_de_plaisance_de_Vancouver.JPG)
+<figcaption class="caption">Le port de plaisance de Vancouver</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Marie_in_Downtown.JPG)
+<figcaption class="caption">Marie in Downtown</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Notre_petit_chez_nous.JPG)
+<figcaption class="caption">Notre petit chez nous</figcaption>
 <br>

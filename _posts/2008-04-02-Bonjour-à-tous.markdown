@@ -71,45 +71,45 @@ A bientôt !
 
 Florent
 
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Aïe_aïe_aïe....JPG.)
+<figcaption class="caption">Aïe aïe aïe....JPG</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Balade_à_Lévis.JPG)
+<figcaption class="caption">Balade à Lévis</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Chez_nous_aussi_les_Cloches_sont_passées.JPG)
+<figcaption class="caption">Chez nous aussi les Cloches sont passées</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/La_traversée_du_St_Laurent.JPG)
+<figcaption class="caption">La traversée du St Laurent</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Merci_Mamie!.JPG)
+<figcaption class="caption">Merci Mamie!</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Notre_nouveau_Chez_Nous.JPG)
+<figcaption class="caption">Notre nouveau Chez Nous</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Québec..._en_1654.JPG.)
+<figcaption class="caption">Québec... en 1654.JPG</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Québec1_La_rue_Sous-Le-Cap.JPG)
+<figcaption class="caption">Québec1 La rue Sous-Le-Cap</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Québec2_un_petit_air_de_Bretagne.JPG)
+<figcaption class="caption">Québec2 un petit air de Bretagne</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Québec3_Parfois__il_y_a_du_soleil_aussi__bien_sûr.JPG)
+<figcaption class="caption">Québec3 Parfois  il y a du soleil aussi  bien sûr</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Québec4_Depuis_la_cour_du_château_de_Frontenac.JPG)
+<figcaption class="caption">Québec4 Depuis la cour du château de Frontenac</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Québec5_Le_long_de_la_rivière_St_Charles.JPG)
+<figcaption class="caption">Québec5 Le long de la rivière St Charles</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Vue_de_Québec_depuis_Lévis.JPG)
+<figcaption class="caption">Vue de Québec depuis Lévis</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$mov)
-<figcaption class="caption">$mov_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/DSCN7063.MOV)
+<figcaption class="caption">DSCN7063</figcaption>
 <br>

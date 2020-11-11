@@ -112,81 +112,81 @@ A bientôt !
 
 Marie-Laure.
 
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Baptême_de_l'air_en_Mauricie.JPG)
+<figcaption class="caption">Baptême de l'air en Mauricie</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/C'est_quoi_la_canneberge.JPG)
+<figcaption class="caption">C'est quoi la canneberge</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Chute_de_Montmorency_1.JPG)
+<figcaption class="caption">Chute de Montmorency 1</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Chute_de_Montmorency_2.JPG)
+<figcaption class="caption">Chute de Montmorency 2</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Fjord_Saguenay_1__Baie_Sainte_Marguerite.JPG)
+<figcaption class="caption">Fjord Saguenay 1  Baie Sainte Marguerite</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Fjord_Saguenay_2_Ste_Rose_du_Nord.JPG)
+<figcaption class="caption">Fjord Saguenay 2 Ste Rose du Nord</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Fjord_Saguenay_3_Sentiers_de_la_batture.JPG)
+<figcaption class="caption">Fjord Saguenay 3 Sentiers de la batture</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Le_luxe_de_notre_motorisé.JPG)
+<figcaption class="caption">Le luxe de notre motorisé</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Le_plat_du_bûcheron_en_cabane_à_sucre.JPG)
+<figcaption class="caption">Le plat du bûcheron en cabane à sucre</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Les_Mille_Iles_1.JPG)
+<figcaption class="caption">Les Mille Iles 1</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Les_Mille_Iles_2.JPG)
+<figcaption class="caption">Les Mille Iles 2</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Les_Mille_Iles_3.JPG)
+<figcaption class="caption">Les Mille Iles 3</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Les_Mille_Iles_4.JPG)
+<figcaption class="caption">Les Mille Iles 4</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Les_tourtereaux_posent_à_Ottawa.JPG)
+<figcaption class="caption">Les tourtereaux posent à Ottawa</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Montréal_depuis_le_Mont_Royal.JPG)
+<figcaption class="caption">Montréal depuis le Mont Royal</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Ottawa_vu_par_JMJeg.JPG)
+<figcaption class="caption">Ottawa vu par JMJeg</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Québec_-_y_a_plus_de_neige_!.JPG)
+<figcaption class="caption">Québec - y a plus de neige !</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Québec_Basse_Ville.JPG)
+<figcaption class="caption">Québec Basse Ville</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Rivière_Ste_Maurice.JPG)
+<figcaption class="caption">Rivière Ste Maurice</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Soirée_BBQ_aux_Mille_Iles.JPG)
+<figcaption class="caption">Soirée BBQ aux Mille Iles</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Soirée_tire_sur_neige_dans_le_VR.JPG)
+<figcaption class="caption">Soirée tire sur neige dans le VR</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Tadoussac.JPG)
+<figcaption class="caption">Tadoussac</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Vidange_des_eaux_très_noirâtres.JPG)
+<figcaption class="caption">Vidange des eaux très noirâtres</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$img)
-<figcaption class="caption">$img_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/Voici_l'engin_!.JPG)
+<figcaption class="caption">Voici l'engin !</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$mov)
-<figcaption class="caption">$mov_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/DSCN7177.MOV)
+<figcaption class="caption">DSCN7177</figcaption>
 <br>
-![Markdown Image](/assets/images/posts-pvt/$mov)
-<figcaption class="caption">$mov_caption</figcaption>
+![Markdown Image](/assets/images/posts-pvt/DSCN7364.MOV)
+<figcaption class="caption">DSCN7364</figcaption>
 <br>
