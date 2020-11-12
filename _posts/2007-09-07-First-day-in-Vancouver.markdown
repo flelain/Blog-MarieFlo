@@ -43,11 +43,7 @@ accompagné du « petit seau » de coca (pour 2 tellement c'est
 énorme !). Je crois quand même qu'on évitera de manger ça tous
 les midis !! 
 
-Ò
-
-Ô
-
-qu'il faut passer le matin. Mais qui nous confirme au passage
+Repus, on va pouvoir enfin passer aux choses sérieuses : se balader, c'est bien joli, mais on a encore du boulot : déclaration de notre présence auprès du consulat français de Vancouver (ce qui peut toujours servir en cas de problème) et obtention du fameux sésame indispensable pour travaille ici : le NAS ou SIN en anglais (Numéro d'Assuré Social). On trouve après quelques fausses difficultés le consulat (fausses difficultés car on aurait quand même dû se rendre compte plus vite qu'ici ils comptent les numéros des bâtiments de 10 en 10). On croise le consul ou presque dans l'ascenseur qui nous explique qu'il faut passer le matin. Mais qui nous confirme au passage
 l'intérêt de la démarche. Fort de notre compréhension de la
 numérotation des bâtiments, on file vers le service de délivrance des
 NAS. Il n'y a pas à dire, de 10 en 10, ça va vraiment trop vite :
