@@ -1,5 +1,5 @@
 ---
-title: "  HYPERLINK"
+title: "La recherche d'appart : c'est pas du gâteau !"
 layout: post
 date: 2007-09-08
 image: /assets/images/posts/tbd.jpg
@@ -9,10 +9,8 @@ star: false
 category: blog-pvt
 blog-pvt: true
 author: jeglain
-description: HYPERLINK
+description: La recherche d'appart, c'est pas du gâteau !
 ---
--gateau-"  La recherche d'appart : c'est pas du gâteau ! 
-
 Bonjour à tous !
 
 Vous devez vous demander (enfin, on espère :) ) : mais où en
