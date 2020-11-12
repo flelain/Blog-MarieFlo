@@ -1,5 +1,5 @@
 ---
-title: "Grand temps de retourner vers l’Ouest comme disait Marie à la fin du"
+title: "Retour vers l’Ouest"
 layout: post
 date: 2008-05-16
 image: /assets/images/posts/tbd.jpg
@@ -9,8 +9,10 @@ star: false
 category: blog-pvt
 blog-pvt: true
 author: jeglain
-description: Grand temps de retourner vers l’Ouest comme disait Marie à la fin du
+description: Retour vers l’Ouest
 ---
+Grand temps de retourner vers l’Ouest comme disait Marie à la fin du
+précédent message… Mais c’est pas un peu trop court comme voyage
 de retourner directement vers l’Ouest ?... 72h de bus seulement pour
 un Montréal-Vancouver, du déjà vu, défi déjà relevé. Allez, on
 peut se permettre un petit détour quand même. C’est pas comme si on

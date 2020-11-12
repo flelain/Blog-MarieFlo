@@ -1,5 +1,5 @@
 ---
-title: "Bonjour a tous!"
+title: "A la découverte du Far West"
 layout: post
 date: 2008-02-20
 image: /assets/images/posts/tbd.jpg
@@ -9,8 +9,10 @@ star: false
 category: blog-pvt
 blog-pvt: true
 author: jeglain
-description: Bonjour a tous!
+description: A la découverte du Far West
 ---
+Bonjour a tous!
+
 Ouh la, que San Francisco nous parait loin a present... Essayons de nous
 rememorer tout ca pour vous raconter un petit peu notre periple
 jusqu'alors. Depart de SF le dimanche 10 fevrier avec notre "petite" KIA

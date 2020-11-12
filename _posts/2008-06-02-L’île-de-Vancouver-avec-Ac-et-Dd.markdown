@@ -1,5 +1,5 @@
 ---
-title: "Après ma tante Mimi et l’oncle Nanard, puis mes parents qui ont"
+title: "L’île de Vancouver avec Ac et Dd"
 layout: post
 date: 2008-06-02
 image: /assets/images/posts/tbd.jpg
@@ -9,8 +9,10 @@ star: false
 category: blog-pvt
 blog-pvt: true
 author: jeglain
-description: Après ma tante Mimi et l’oncle Nanard, puis mes parents qui ont
+description: L’île de Vancouver avec Ac et Dd
 ---
+Après ma tante Mimi et l’oncle Nanard, puis mes parents qui ont
+débarqué au Québec, voici l’épisode avec nos amis Sévriens en
 vacances en Colombie Britannique.
 
 Et oui, il s’agit d’Anne-Cécile et David ! Pour enlever toute

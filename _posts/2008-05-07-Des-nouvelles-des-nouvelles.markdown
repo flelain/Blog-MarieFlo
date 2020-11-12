@@ -1,5 +1,5 @@
 ---
-title: "Des nouvelles, des nouvelles ! Ben ok, vous allez en avoir alors des"
+title: "Des nouvelles, des nouvelles !"
 layout: post
 date: 2008-05-07
 image: /assets/images/posts/tbd.jpg
@@ -9,9 +9,8 @@ star: false
 category: blog-pvt
 blog-pvt: true
 author: jeglain
-description: Des nouvelles, des nouvelles ! Ben ok, vous allez en avoir alors des
+description: Des nouvelles, des nouvelles !
 ---
-
 Ne vous inquiétez pas, nous n’avons ni péri dans l’incendie du
 manège militaire de Québec, ni été congelés dans l’un des
 nombreux lacs du coin, ni même écrasés entre deux plaques de glace du

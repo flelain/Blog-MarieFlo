@@ -1,5 +1,5 @@
 ---
-title: "Bonjour à tous,"
+title: "La neige est (enfin) arrivée !"
 layout: post
 date: 2007-12-29
 image: /assets/images/posts/tbd.jpg
@@ -9,8 +9,10 @@ star: false
 category: blog-pvt
 blog-pvt: true
 author: jeglain
-description: Bonjour à tous,
+description: La neige est (enfin) arrivée !
 ---
+Bonjour à tous,
+
  On nous promettait tant de neige avant de venir ici... Elle a mis plus
 de temps que l'année dernière à arriver mais ça y est, on a
 commencé à voir tomber les mètres de neige jour après jour. 173cm de

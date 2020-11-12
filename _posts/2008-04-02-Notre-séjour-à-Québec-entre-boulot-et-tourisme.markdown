@@ -1,5 +1,5 @@
 ---
-title: "Bonjour à tous !"
+title: "Notre séjour à Québec, entre boulot et tourisme"
 layout: post
 date: 2008-04-02
 image: /assets/images/posts/tbd.jpg
@@ -9,8 +9,10 @@ star: false
 category: blog-pvt
 blog-pvt: true
 author: jeglain
-description: Bonjour à tous !
+description: Notre séjour à Québec, entre boulot et tourisme
 ---
+Bonjour à tous !
+
 Après ma première journée de boulot, j’ai découvert comme vous la
 fin du message de Marie… La sanction a été immédiate : j’ai dit
 ciao à mon employeur le soir même :). Ok, j’en rajoute un peu, sauf

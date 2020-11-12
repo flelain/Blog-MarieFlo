@@ -1,5 +1,5 @@
 ---
-title: "Chers lecteurs,"
+title: "En route pour le Québec !"
 layout: post
 date: 2008-03-19
 image: /assets/images/posts/tbd.jpg
@@ -9,8 +9,10 @@ star: false
 category: blog-pvt
 blog-pvt: true
 author: jeglain
-description: Chers lecteurs,
+description: En route pour le Québec !
 ---
+Chers lecteurs,
+
 Tout d’abord, je m’excuse de ne pas avoir mis plus de nouvelles sur
 le blog ces derniers temps, mais au moins, j’ai plein de choses à
 vous raconter maintenant ;o)

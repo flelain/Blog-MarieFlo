@@ -1,5 +1,5 @@
 ---
-title: "Je crois qu’il va me falloir plus d’un message pour pouvoir mettre"
+title: "Excursion dans les Rocheuses"
 layout: post
 date: 2008-07-05
 image: /assets/images/posts/tbd.jpg
@@ -9,8 +9,10 @@ star: false
 category: blog-pvt
 blog-pvt: true
 author: jeglain
-description: Je crois qu’il va me falloir plus d’un message pour pouvoir mettre
+description: Excursion dans les Rocheuses
 ---
+Je crois qu’il va me falloir plus d’un message pour pouvoir mettre
+en ligne toutes les photos des magnifiques paysages que nous avons
 parcourus ces 3 dernières semaines… 20 photos, c’est trop juste, je
 n’arriverai pas à me limiter ;o)
 

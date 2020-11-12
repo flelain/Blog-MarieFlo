@@ -1,5 +1,5 @@
 ---
-title: "Bonjour à tous !"
+title: "Les choses commencent à prendre forme pour notre saison d’hiver à la"
 layout: post
 date: 2007-11-12
 image: /assets/images/posts/tbd.jpg
@@ -9,8 +9,11 @@ star: false
 category: blog-pvt
 blog-pvt: true
 author: jeglain
-description: Bonjour à tous !
+description: Les choses commencent à prendre forme pour notre saison d’hiver à la
 ---
+
+Bonjour à tous !
+
 1 semaine seulement depuis le dernier message (le bilan
 socioprofessionnel introspectif souvenez-vous) mais déjà pas mal de
 nouvelles choses à raconter…
@@ -118,23 +121,32 @@ on va travailler
 50% de réduc sur la bouffe et location de ski dans tous les
 restos&boutiques Intrawest
 
-La contrepartie elle de ces plus est un salaire plutôt faible par
-rapport à tous les autres employeurs de la station : un peu plus de 9$
-/ heure au-delà d’une période probatoire de 80h (pendant laquelle on
-ne sera payé que 8.5$/h). En fait, on doit bien le payer quelque part
-de toute façon ce chèque-repas et ce forfait, faut pas se leurrer :)
+Q
 
-?
+Ó
 
-@
+Ô
 
-ƒ
+K
 
-„
+R
 
-„
+S
 
- son chien, de leurs poils qui traînent partout, … ;)
+b
+
+Ô
+
+elle de ces plus est un salaire plutôt faible par rapport à tous les
+autres employeurs de la station : un peu plus de 9$ / heure au-delà
+d’une période probatoire de 80h (pendant laquelle on ne sera payé
+que 8.5$/h). En fait, on doit bien le payer quelque part de toute façon
+ce chèque-repas et ce forfait, faut pas se leurrer :)
+
+De retour sur Vancouver pour quelques jours, il va nous falloir gérer
+pour nos boulots ici, vendre nos vélos, nous séparer de la maison de
+Kathleen, de ses colocataires, de son chat, son chien, de leurs poils
+qui traînent partout, … ;)
 
 Assez parlé pour aujourd’hui, bravo pour ceux qui ont tenu jusqu’au
 bout !

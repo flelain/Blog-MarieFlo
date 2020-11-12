@@ -1,5 +1,5 @@
 ---
-title: "Bonjour à nos chers lecteurs !"
+title: "Thanksgiving et préparation de notre … prochaine étape …"
 layout: post
 date: 2007-10-16
 image: /assets/images/posts/tbd.jpg
@@ -9,8 +9,11 @@ star: false
 category: blog-pvt
 blog-pvt: true
 author: jeglain
-description: Bonjour à nos chers lecteurs !
+description: Thanksgiving et préparation de notre … prochaine étape …
 ---
+
+Bonjour à nos chers lecteurs !
+
 Cette fois-ci, c’est Marie-Laure qui va vous conter la suite des
 histoires toujours plus sensationnelles de vos petits bretons expatriés
 au Canada. Florent m’a laissé la plume… enfin, le clavier ;o)

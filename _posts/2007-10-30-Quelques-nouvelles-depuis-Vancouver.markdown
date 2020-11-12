@@ -1,5 +1,5 @@
 ---
-title: "Bonjour !"
+title: "Quelques nouvelles depuis Vancouver"
 layout: post
 date: 2007-10-30
 image: /assets/images/posts/tbd.jpg
@@ -9,8 +9,10 @@ star: false
 category: blog-pvt
 blog-pvt: true
 author: jeglain
-description: Bonjour !
+description: Quelques nouvelles depuis Vancouver
 ---
+Bonjour !
+
 Je profite d’avoir mon après-midi de libre pour vous envoyer des
 petites nouvelles. Ne vous inquiétez pas, je n’ai pas été
 licenciée, c’est seulement que je commence à 5h30 le matin (je fais

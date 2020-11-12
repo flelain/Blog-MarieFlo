@@ -1,5 +1,5 @@
 ---
-title: "Bonjour à tous !"
+title: "Préparation pour notre saison en station"
 layout: post
 date: 2007-12-05
 image: /assets/images/posts/tbd.jpg
@@ -9,8 +9,10 @@ star: false
 category: blog-pvt
 blog-pvt: true
 author: jeglain
-description: Bonjour à tous !
+description: Préparation pour notre saison en station
 ---
+Bonjour à tous !
+
 Ouh la la, par où commencer ?... Ah oui, première chose tout de
 même, notre boulot pour la montagne : c’est bien joli d’avoir
 été formés, encore faut-il que l’on vous dise si on a pu mettre

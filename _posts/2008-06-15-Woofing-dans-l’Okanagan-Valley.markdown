@@ -1,5 +1,5 @@
 ---
-title: "Aïe aïe aïe, que de temps sans nouvelles de notre part… A notre"
+title: "Woofing dans l’Okanagan Valley"
 layout: post
 date: 2008-06-15
 image: /assets/images/posts/tbd.jpg
@@ -9,8 +9,10 @@ star: false
 category: blog-pvt
 blog-pvt: true
 author: jeglain
-description: Aïe aïe aïe, que de temps sans nouvelles de notre part… A notre
+description: Woofing dans l’Okanagan Valley
 ---
+Aïe aïe aïe, que de temps sans nouvelles de notre part… A notre
+décharge, très peu d’accès Internet depuis plus d’un mois…
 Voici quelques nouvelles –plus très fraîches on vous
 l’accorde, mais bonnes cependant- de la première quinzaine de juin.
 

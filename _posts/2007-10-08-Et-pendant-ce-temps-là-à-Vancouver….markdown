@@ -1,5 +1,5 @@
 ---
-title: "Bonjour à tous !"
+title: "Et pendant ce temps-là à Vancouver…"
 layout: post
 date: 2007-10-08
 image: /assets/images/posts/tbd.jpg
@@ -9,8 +9,10 @@ star: false
 category: blog-pvt
 blog-pvt: true
 author: jeglain
-description: Bonjour à tous !
+description: Et pendant ce temps-là à Vancouver…
 ---
+Bonjour à tous !
+
 De retour sur le blog, pour une petite mise à jour qui s’impose
 après 1 semaine et demi sans nouvelles de notre part ici ! Peut-être
 commenciez-vous à vous ennuyer quelque peu ?! :)

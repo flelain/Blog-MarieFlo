@@ -1,5 +1,5 @@
 ---
-title: "Les journées se suivent et se ressemblent… ;o)"
+title: "Les journées se suivent et se ressemblent… :)"
 layout: post
 date: 2007-12-20
 image: /assets/images/posts/tbd.jpg
@@ -9,7 +9,7 @@ star: false
 category: blog-pvt
 blog-pvt: true
 author: jeglain
-description: Les journées se suivent et se ressemblent… ;o)
+description: Les journées se suivent et se ressemblent… )
 ---
 Et oui, le temps passe tellement vite ici (je pense qu’il y a un truc
 avec l’altitude !) qu’on ne vous a pas donné de nouvelles depuis

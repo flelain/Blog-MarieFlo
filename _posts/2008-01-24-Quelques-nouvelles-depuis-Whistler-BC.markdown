@@ -1,5 +1,5 @@
 ---
-title: "Bonjour à tous !"
+title: "Quelques nouvelles depuis Whistler, BC"
 layout: post
 date: 2008-01-24
 image: /assets/images/posts/tbd.jpg
@@ -9,8 +9,10 @@ star: false
 category: blog-pvt
 blog-pvt: true
 author: jeglain
-description: Bonjour à tous !
+description: Quelques nouvelles depuis Whistler, BC
 ---
+Bonjour à tous !
+
 Oui, oui, oui, force est de reconnaître que nous n'avons pas été des
 plus performants ces derniers temps sur le blog : le dernier message
 date effectivement d'il y a près de 3 semaines. Et d'ailleurs, je crois

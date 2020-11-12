@@ -1,5 +1,5 @@
 ---
-title: "Bonjour à tous,"
+title: "Prince Rupert, les îles Queen Charlotte et … une vente de voiture"
 layout: post
 date: 2008-07-19
 image: /assets/images/posts/tbd.jpg
@@ -9,8 +9,10 @@ star: false
 category: blog-pvt
 blog-pvt: true
 author: jeglain
-description: Bonjour à tous,
+description: Prince Rupert, les îles Queen Charlotte et … une vente de voiture
 ---
+Bonjour à tous,
+
 19 juillet 2008, Prince Rupert, BC. Il est 15h, la pluie a finalement
 laissé la place au soleil, même si celui-ci doit encore faire de
 nombreux efforts pour se faire de la place parmi les nuages encore
