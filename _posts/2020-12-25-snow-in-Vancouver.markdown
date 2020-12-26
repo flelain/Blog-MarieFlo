@@ -1,7 +1,7 @@
 ---
 title: "Let it snow, let it snow, let it snow"
 layout: post
-date: 2020-11-06 21:42
+date: 2020-12-25 22:34
 image: /assets/images/posts/aerial-Cypress.jpg
 headerImage: true
 tag:
@@ -21,7 +21,7 @@ L'hiver est presque arrivé avant l'heure ici et ... la neige tombe en quantité
 <br>
 
 ![Markdown Image](/assets/images/posts/Grouse-snow-getaway-1.jpg)
-<figcaption class="caption">Dec 13: forte pluie en bas, neige abondante en haut de Grouse!</figcaption>
+<figcaption class="caption">Forte pluie en bas, neige abondante en haut de Grouse!</figcaption>
 <br>
 
 ![Markdown Image](/assets/images/posts/Grouse-snow-getaway-2.jpg)
@@ -29,7 +29,7 @@ L'hiver est presque arrivé avant l'heure ici et ... la neige tombe en quantité
 <br>
 
 ![Markdown Image](/assets/images/posts/Grouse-snow-getaway-3.jpg)
-<figcaption class="caption">Bain de poudreuse"</figcaption>
+<figcaption class="caption">Bain de poudreuse</figcaption>
 <br>
 
 ![Markdown Image](/assets/images/posts/Grouse-snow-getaway-4.jpg)
@@ -45,7 +45,9 @@ L'hiver est presque arrivé avant l'heure ici et ... la neige tombe en quantité
 <figcaption class="caption">Ras-le-bol d'attendre le télésiège, on remonte à pied :)</figcaption>
 <br>
 
-La neige, c'est super cool, ok. Mais que serait décembre sans son calendrier de l'Avent, son Réveillon et ... ses cadeaux ? Quelques photos souvenirs d'un mois presque déjà écoulé avant de vous souhaiter à tous d'excellentes fêtes de fin d'annéee ! A bientôt !
+La neige, c'est super cool, ok. Mais que serait décembre sans son calendrier de l'Avent, son Réveillon et ... ses cadeaux ? Quelques photos souvenirs d'un mois presque déjà écoulé avant de **vous souhaiter à tous d'excellentes fêtes de fin d'annéee !**
+
+A bientôt !
 <br>
 
 ![Markdown Image](/assets/images/posts/Advent-calendar.jpg)
@@ -53,7 +55,7 @@ La neige, c'est super cool, ok. Mais que serait décembre sans son calendrier de
 <br>
 
 ![Markdown Image](/assets/images/posts/patience-before-Santas-visit.jpg)
-<figcaption class="caption">Grand calme avant l'ouverture du champagne et ... l'arrivée de Père-Noël</figcaption>
+<figcaption class="caption">Grand calme avant l'ouverture du champagne et ... l'arrivée du Père-Noël</figcaption>
 <br>
 
 ![Markdown Image](/assets/images/posts/Santa-passed-by.jpg)
