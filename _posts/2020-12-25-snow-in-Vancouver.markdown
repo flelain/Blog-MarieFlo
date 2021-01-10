@@ -8,6 +8,7 @@ tag:
 - neige
 - ski
 - luge
+- Noël
 star: false
 category: blog
 projects: false
