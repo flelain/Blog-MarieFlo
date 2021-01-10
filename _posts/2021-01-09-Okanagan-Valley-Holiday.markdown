@@ -20,12 +20,12 @@ description: semaine entre Noël et Nouvel An 2021 dans l'Okanagan Valley, BC
 
 Bonjour à tou.te.s !
 
-Vous connaissez la Silicon Valley ? Vous voyez où c'est? Eh bien... c'est pas tout à fait là que l'on a passé nos vacances entre Noël et Nouvel An mais il y a tout plein de similitudes :
+Vous connaissez la Silicon Valley ? Vous voyez où c'est ? Eh bien... ce n'est pas tout à fait là que l'on a passé nos vacances entre Noël et Nouvel An mais il y a tout plein de similitudes :
 - c'est aussi une grande vallée de la côte Ouest de l'Amérique du Nord
 - au moins aussi célèbre que la Silicon Valley (ok, ici au Canada en tout cas)
 - car elle est également à l'origine de produits et services indispensables à notre quotidien
 
-  ... je suis ... je suis ... L'Okanagan Valley bien sûr !
+  ... je suis ... je suis ... **L'Okanagan Valley** bien sûr !
 
 Ok, les ressemblances s'arrêtent certainement là, parce que, l'Okanagan:
 - est connue pour sa production de vin, de fruits et de légumes plutôt que celle d'applications et services logiciels
